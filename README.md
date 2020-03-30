@@ -5,14 +5,19 @@ COVID-19_RD Repositorio de datos actualizado COVID-19 en República Dominicana. 
 
 
 Visual Dashboard (escritorio):
+
 https://emmanuelcruzhernandez.blogspot.com/2020/03/covid-19.html
 
 Fuentes de datos:
+
 •	University Johons Hopkins: https://github.com/CSSEGISandData/COVID-19
+
 •	Ministerio de Salud Pública Republica Dominicana: https://www.msp.gob.do/web/?page_id=6682
+
 Contáctenos:
 •	Correo electrónico: emmanuel.cruzhernandez@gmail.com
 
 Términos de Uso:
+
 Este repositorio de GitHub y sus contenidos en este documento, incluidos todos los datos, mapas y análisis, copyright 2020 Ing. Emmanuel Cruz, todos los derechos reservados, se proporcionan al público estrictamente con fines de investigación académica y educativa. El sitio web se basa en datos disponibles públicamente de múltiples fuentes, que no siempre están de acuerdo. Por el presente renuncio a todas y cada una de las representaciones y garantías con respecto al sitio web, incluida la precisión, la idoneidad para el uso y la comerciabilidad. Se prohíbe estrictamente confiar en el sitio web para obtener orientación médica o el uso del sitio web en el comercio.
 
