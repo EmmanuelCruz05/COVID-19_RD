@@ -6,7 +6,7 @@ COVID-19_RD Repositorio de datos actualizado COVID-19 en República Dominicana. 
 
 Visual Dashboard (escritorio):
 
-https://emmanuelcruzhernandez.blogspot.com/2020/03/covid-19.html
+https://emmanuelcruzhernandez.blogspot.com/2020/03/covid-19_30.html
 
 Fuentes de datos:
 
