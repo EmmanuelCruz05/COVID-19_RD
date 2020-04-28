@@ -1,1089 +1,1281 @@
-﻿#Provincia;Provincia;#De Casos;Defunciones;Date;Boletines;Recuperados;Status;Dia
-1;Distrito Nacional;14;0;18/3/2020;Boletin #1;0;;1
-2;Azua;0;0;18/3/2020;Boletin #1;0;;1
-3;Bahoruco;0;0;18/3/2020;Boletin #1;0;;1
-4;Barahona;0;0;18/3/2020;Boletin #1;0;;1
-5;Dajabon;0;0;18/3/2020;Boletin #1;0;;1
-6;Duarte;2;1;18/3/2020;Boletin #1;0;;1
-7;Elias Pina;0;0;18/3/2020;Boletin #1;0;;1
-8;El Seibo;0;0;18/3/2020;Boletin #1;0;;1
-9;Espaillat;0;0;18/3/2020;Boletin #1;0;;1
-10;Independecia;0;0;18/3/2020;Boletin #1;0;;1
-11;La Altagracia;2;0;18/3/2020;Boletin #1;0;;1
-12;La Romana;0;0;18/3/2020;Boletin #1;0;;1
-13;La Vega;0;0;18/3/2020;Boletin #1;0;;1
-14;Maria Trinidad Sanchez;0;0;18/3/2020;Boletin #1;0;;1
-15;Monte Cristi;0;0;18/3/2020;Boletin #1;0;;1
-16;Pedernales;0;0;18/3/2020;Boletin #1;0;;1
-17;Peravia;0;0;18/3/2020;Boletin #1;0;;1
-18;Puerto Plata;3;0;18/3/2020;Boletin #1;0;;1
-19;Hermanas Mirabal;2;0;18/3/2020;Boletin #1;0;;1
-20;Samana;4;0;18/3/2020;Boletin #1;0;;1
-21;San Cristobal;0;0;18/3/2020;Boletin #1;0;;1
-22;San Juan;1;0;18/3/2020;Boletin #1;0;;1
-23;San Pedro de Macoris;1;1;18/3/2020;Boletin #1;0;;1
-24;Sanchez Ramirez;0;0;18/3/2020;Boletin #1;0;;1
-25;Santiago;3;0;18/3/2020;Boletin #1;0;;1
-26;Santiago Rodriguez;0;0;18/3/2020;Boletin #1;0;;1
-27;Valverde;0;0;18/3/2020;Boletin #1;0;;1
-28;Monsenor Nouel;0;0;18/3/2020;Boletin #1;0;;1
-29;Monte Plata;0;0;18/3/2020;Boletin #1;0;;1
-30;Hato Mayor;0;0;18/3/2020;Boletin #1;0;;1
-31;San Jose De Ocoa;0;0;18/3/2020;Boletin #1;0;;1
-32;Santo Domingo;2;0;18/3/2020;Boletin #1;0;;1
-1;Distrito Nacional;51;0;20/3/2020;Boletin #2;0;;2
-2;Azua;2;0;20/3/2020;Boletin #2;0;;2
-3;Bahoruco;0;0;20/3/2020;Boletin #2;0;;2
-4;Barahona;1;0;20/3/2020;Boletin #2;0;;2
-5;Dajabon;0;0;20/3/2020;Boletin #2;0;;2
-6;Duarte;4;1;20/3/2020;Boletin #2;0;;2
-7;Elias Pina;0;0;20/3/2020;Boletin #2;0;;2
-8;El Seibo;0;0;20/3/2020;Boletin #2;0;;2
-9;Espaillat;1;0;20/3/2020;Boletin #2;0;;2
-10;Independecia;0;0;20/3/2020;Boletin #2;0;;2
-11;La Altagracia;7;0;20/3/2020;Boletin #2;0;;2
-12;La Romana;0;0;20/3/2020;Boletin #2;0;;2
-13;La Vega;4;0;20/3/2020;Boletin #2;0;;2
-14;Maria Trinidad Sanchez;2;0;20/3/2020;Boletin #2;0;;2
-15;Monte Cristi;0;0;20/3/2020;Boletin #2;0;;2
-16;Pedernales;0;0;20/3/2020;Boletin #2;0;;2
-17;Peravia;0;0;20/3/2020;Boletin #2;0;;2
-18;Puerto Plata;3;0;20/3/2020;Boletin #2;0;;2
-19;Hermanas Mirabal;2;0;20/3/2020;Boletin #2;0;;2
-20;Samana;4;0;20/3/2020;Boletin #2;0;;2
-21;San Cristobal;1;0;20/3/2020;Boletin #2;0;;2
-22;San Juan;1;1;20/3/2020;Boletin #2;0;;2
-23;San Pedro de Macoris;4;1;20/3/2020;Boletin #2;0;;2
-24;Sanchez Ramirez;0;0;20/3/2020;Boletin #2;0;;2
-25;Santiago;12;0;20/3/2020;Boletin #2;0;;2
-26;Santiago Rodriguez;0;0;20/3/2020;Boletin #2;0;;2
-27;Valverde;1;0;20/3/2020;Boletin #2;0;;2
-28;Monsenor Nouel;1;0;20/3/2020;Boletin #2;0;;2
-29;Monte Plata;0;0;20/3/2020;Boletin #2;0;;2
-30;Hato Mayor;0;0;20/3/2020;Boletin #2;0;;2
-31;San Jose De Ocoa;0;0;20/3/2020;Boletin #2;0;;2
-32;Santo Domingo;10;0;20/3/2020;Boletin #2;0;;2
-1;Distrito Nacional;88;0;21/3/2020;Boletin #3;0;;3
-2;Azua;2;0;21/3/2020;Boletin #3;0;;3
-3;Bahoruco;0;0;21/3/2020;Boletin #3;0;;3
-4;Barahona;1;0;21/3/2020;Boletin #3;0;;3
-5;Dajabon;0;0;21/3/2020;Boletin #3;0;;3
-6;Duarte;8;1;21/3/2020;Boletin #3;0;;3
-7;Elias Pina;0;0;21/3/2020;Boletin #3;0;;3
-8;El Seibo;0;0;21/3/2020;Boletin #3;0;;3
-9;Espaillat;1;0;21/3/2020;Boletin #3;0;;3
-10;Independecia;0;0;21/3/2020;Boletin #3;0;;3
-11;La Altagracia;7;0;21/3/2020;Boletin #3;0;;3
-12;La Romana;3;0;21/3/2020;Boletin #3;0;;3
-13;La Vega;7;0;21/3/2020;Boletin #3;0;;3
-14;Maria Trinidad Sanchez;2;0;21/3/2020;Boletin #3;0;;3
-15;Monte Cristi;0;0;21/3/2020;Boletin #3;0;;3
-16;Pedernales;0;0;21/3/2020;Boletin #3;0;;3
-17;Peravia;0;0;21/3/2020;Boletin #3;0;;3
-18;Puerto Plata;3;0;21/3/2020;Boletin #3;0;;3
-19;Hermanas Mirabal;2;0;21/3/2020;Boletin #3;0;;3
-20;Samana;4;0;21/3/2020;Boletin #3;0;;3
-21;San Cristobal;1;0;21/3/2020;Boletin #3;0;;3
-22;San Juan;2;1;21/3/2020;Boletin #3;0;;3
-23;San Pedro de Macoris;6;1;21/3/2020;Boletin #3;0;;3
-24;Sanchez Ramirez;1;0;21/3/2020;Boletin #3;0;;3
-25;Santiago;29;0;21/3/2020;Boletin #3;0;;3
-26;Santiago Rodriguez;0;0;21/3/2020;Boletin #3;0;;3
-27;Valverde;1;0;21/3/2020;Boletin #3;0;;3
-28;Monsenor Nouel;2;0;21/3/2020;Boletin #3;0;;3
-29;Monte Plata;0;0;21/3/2020;Boletin #3;0;;3
-30;Hato Mayor;0;0;21/3/2020;Boletin #3;0;;3
-31;San Jose De Ocoa;0;0;21/3/2020;Boletin #3;0;;3
-32;Santo Domingo;31;0;21/3/2020;Boletin #3;0;;3
-1;Distrito Nacional;108;0;22/3/2020;Boletin #4;0;;4
-2;Azua;2;0;22/3/2020;Boletin #4;0;;4
-3;Bahoruco;0;0;22/3/2020;Boletin #4;0;;4
-4;Barahona;1;0;22/3/2020;Boletin #4;0;;4
-5;Dajabon;0;0;22/3/2020;Boletin #4;0;;4
-6;Duarte;17;1;22/3/2020;Boletin #4;0;;4
-7;Elias Pina;0;0;22/3/2020;Boletin #4;0;;4
-8;El Seibo;0;0;22/3/2020;Boletin #4;0;;4
-9;Espaillat;1;0;22/3/2020;Boletin #4;0;;4
-10;Independecia;0;0;22/3/2020;Boletin #4;0;;4
-11;La Altagracia;7;0;22/3/2020;Boletin #4;0;;4
-12;La Romana;6;0;22/3/2020;Boletin #4;0;;4
-13;La Vega;7;0;22/3/2020;Boletin #4;0;;4
-14;Maria Trinidad Sanchez;2;0;22/3/2020;Boletin #4;0;;4
-15;Monte Cristi;0;0;22/3/2020;Boletin #4;0;;4
-16;Pedernales;0;0;22/3/2020;Boletin #4;0;;4
-17;Peravia;0;0;22/3/2020;Boletin #4;0;;4
-18;Puerto Plata;3;0;22/3/2020;Boletin #4;0;;4
-19;Hermanas Mirabal;3;0;22/3/2020;Boletin #4;0;;4
-20;Samana;4;0;22/3/2020;Boletin #4;0;;4
-21;San Cristobal;1;0;22/3/2020;Boletin #4;0;;4
-22;San Juan;2;1;22/3/2020;Boletin #4;0;;4
-23;San Pedro de Macoris;7;1;22/3/2020;Boletin #4;0;;4
-24;Sanchez Ramirez;1;0;22/3/2020;Boletin #4;0;;4
-25;Santiago;30;0;22/3/2020;Boletin #4;0;;4
-26;Santiago Rodriguez;0;0;22/3/2020;Boletin #4;0;;4
-27;Valverde;1;0;22/3/2020;Boletin #4;0;;4
-28;Monsenor Nouel;3;0;22/3/2020;Boletin #4;0;;4
-29;Monte Plata;0;0;22/3/2020;Boletin #4;0;;4
-30;Hato Mayor;0;0;22/3/2020;Boletin #4;0;;4
-31;San Jose De Ocoa;0;0;22/3/2020;Boletin #4;0;;4
-32;Santo Domingo;39;0;22/3/2020;Boletin #4;0;;4
-1;Distrito Nacional;137;0;23/3/2020;Boletin #5;0;;5
-2;Azua;1;0;23/3/2020;Boletin #5;0;Recuperado;5
-3;Bahoruco;0;0;23/3/2020;Boletin #5;0;;5
-4;Barahona;1;0;23/3/2020;Boletin #5;0;;5
-5;Dajabon;0;0;23/3/2020;Boletin #5;0;;5
-6;Duarte;29;4;23/3/2020;Boletin #5;0;;5
-7;Elias Pina;0;0;23/3/2020;Boletin #5;0;;5
-8;El Seibo;0;0;23/3/2020;Boletin #5;0;;5
-9;Espaillat;2;0;23/3/2020;Boletin #5;0;;5
-10;Independecia;0;0;23/3/2020;Boletin #5;0;;5
-11;La Altagracia;11;0;23/3/2020;Boletin #5;0;;5
-12;La Romana;5;0;23/3/2020;Boletin #5;0;Recuperado;5
-13;La Vega;8;0;23/3/2020;Boletin #5;0;;5
-14;Maria Trinidad Sanchez;3;0;23/3/2020;Boletin #5;0;;5
-15;Monte Cristi;0;0;23/3/2020;Boletin #5;0;;5
-16;Pedernales;0;0;23/3/2020;Boletin #5;0;;5
-17;Peravia;0;0;23/3/2020;Boletin #5;0;;5
-18;Puerto Plata;5;0;23/3/2020;Boletin #5;0;;5
-19;Hermanas Mirabal;3;0;23/3/2020;Boletin #5;0;;5
-20;Samana;5;0;23/3/2020;Boletin #5;0;;5
-21;San Cristobal;1;0;23/3/2020;Boletin #5;0;;5
-22;San Juan;2;1;23/3/2020;Boletin #5;0;;5
-23;San Pedro de Macoris;10;1;23/3/2020;Boletin #5;0;;5
-24;Sanchez Ramirez;1;0;23/3/2020;Boletin #5;0;;5
-25;Santiago;44;0;23/3/2020;Boletin #5;0;;5
-26;Santiago Rodriguez;0;0;23/3/2020;Boletin #5;0;;5
-27;Valverde;1;0;23/3/2020;Boletin #5;0;;5
-28;Monsenor Nouel;3;0;23/3/2020;Boletin #5;0;;5
-29;Monte Plata;0;0;23/3/2020;Boletin #5;0;;5
-30;Hato Mayor;0;0;23/3/2020;Boletin #5;0;;5
-31;San Jose De Ocoa;0;0;23/3/2020;Boletin #5;0;;5
-32;Santo Domingo;40;0;23/3/2020;Boletin #5;0;;5
-1;Distrito Nacional;178;1;24/3/2020;Boletin #6;0;;6
-2;Azua;1;0;24/3/2020;Boletin #6;0;;6
-3;Bahoruco;0;0;24/3/2020;Boletin #6;0;;6
-4;Barahona;2;0;24/3/2020;Boletin #6;0;;6
-5;Dajabon;0;0;24/3/2020;Boletin #6;0;;6
-6;Duarte;29;4;24/3/2020;Boletin #6;0;;6
-7;Elias Pina;0;0;24/3/2020;Boletin #6;0;;6
-8;El Seibo;0;0;24/3/2020;Boletin #6;0;;6
-9;Espaillat;5;0;24/3/2020;Boletin #6;0;;6
-10;Independecia;1;0;24/3/2020;Boletin #6;0;;6
-11;La Altagracia;12;0;24/3/2020;Boletin #6;0;;6
-12;La Romana;5;0;24/3/2020;Boletin #6;0;;6
-13;La Vega;8;0;24/3/2020;Boletin #6;0;;6
-14;Maria Trinidad Sanchez;3;0;24/3/2020;Boletin #6;0;;6
-15;Monte Cristi;0;0;24/3/2020;Boletin #6;0;;6
-16;Pedernales;0;0;24/3/2020;Boletin #6;0;;6
-17;Peravia;0;0;24/3/2020;Boletin #6;0;;6
-18;Puerto Plata;5;0;24/3/2020;Boletin #6;0;;6
-19;Hermanas Mirabal;3;0;24/3/2020;Boletin #6;0;;6
-20;Samana;7;1;24/3/2020;Boletin #6;0;;6
-21;San Cristobal;4;0;24/3/2020;Boletin #6;0;;6
-22;San Juan;2;1;24/3/2020;Boletin #6;0;;6
-23;San Pedro de Macoris;10;1;24/3/2020;Boletin #6;0;;6
-24;Sanchez Ramirez;6;0;24/3/2020;Boletin #6;0;;6
-25;Santiago;53;2;24/3/2020;Boletin #6;0;;6
-26;Santiago Rodriguez;0;0;24/3/2020;Boletin #6;0;;6
-27;Valverde;1;0;24/3/2020;Boletin #6;0;;6
-28;Monsenor Nouel;3;0;24/3/2020;Boletin #6;0;;6
-29;Monte Plata;0;0;24/3/2020;Boletin #6;0;;6
-30;Hato Mayor;2;0;24/3/2020;Boletin #6;0;;6
-31;San Jose De Ocoa;0;0;24/3/2020;Boletin #6;0;;6
-32;Santo Domingo;52;0;24/3/2020;Boletin #6;0;;6
-1;Distrito Nacional;235;1;25/3/2020;Boletin #7;0;;7
-2;Azua;4;0;25/3/2020;Boletin #7;0;;7
-3;Bahoruco;0;0;25/3/2020;Boletin #7;0;;7
-4;Barahona;2;0;25/3/2020;Boletin #7;0;;7
-5;Dajabon;0;0;25/3/2020;Boletin #7;0;;7
-6;Duarte;43;4;25/3/2020;Boletin #7;0;;7
-7;Elias Pina;0;0;25/3/2020;Boletin #7;0;;7
-8;El Seibo;0;0;25/3/2020;Boletin #7;0;;7
-9;Espaillat;10;0;25/3/2020;Boletin #7;0;;7
-10;Independecia;1;0;25/3/2020;Boletin #7;0;;7
-11;La Altagracia;11;0;25/3/2020;Boletin #7;0;;7
-12;La Romana;6;0;25/3/2020;Boletin #7;0;;7
-13;La Vega;11;0;25/3/2020;Boletin #7;0;;7
-14;Maria Trinidad Sanchez;4;0;25/3/2020;Boletin #7;0;;7
-15;Monte Cristi;0;0;25/3/2020;Boletin #7;0;;7
-16;Pedernales;0;0;25/3/2020;Boletin #7;0;;7
-17;Peravia;0;0;25/3/2020;Boletin #7;0;;7
-18;Puerto Plata;7;0;25/3/2020;Boletin #7;0;;7
-19;Hermanas Mirabal;3;0;25/3/2020;Boletin #7;0;;7
-20;Samana;7;1;25/3/2020;Boletin #7;0;;7
-21;San Cristobal;5;0;25/3/2020;Boletin #7;0;;7
-22;San Juan;2;1;25/3/2020;Boletin #7;0;;7
-23;San Pedro de Macoris;12;1;25/3/2020;Boletin #7;0;;7
-24;Sanchez Ramirez;6;0;25/3/2020;Boletin #7;0;;7
-25;Santiago;57;2;25/3/2020;Boletin #7;0;;7
-26;Santiago Rodriguez;0;0;25/3/2020;Boletin #7;0;;7
-27;Valverde;2;0;25/3/2020;Boletin #7;0;;7
-28;Monsenor Nouel;3;0;25/3/2020;Boletin #7;0;;7
-29;Monte Plata;0;0;25/3/2020;Boletin #7;0;;7
-30;Hato Mayor;2;0;25/3/2020;Boletin #7;0;;7
-31;San Jose De Ocoa;0;0;25/3/2020;Boletin #7;0;;7
-32;Santo Domingo;55;0;25/3/2020;Boletin #7;0;;7
-1;Distrito Nacional;273;2;26/3/2020;Boletin #8;0;;8
-2;Azua;4;0;26/3/2020;Boletin #8;0;;8
-3;Bahoruco;0;0;26/3/2020;Boletin #8;0;;8
-4;Barahona;4;0;26/3/2020;Boletin #8;0;;8
-5;Dajabon;0;0;26/3/2020;Boletin #8;0;;8
-6;Duarte;59;12;26/3/2020;Boletin #8;0;;8
-7;Elias Pina;0;0;26/3/2020;Boletin #8;0;;8
-8;El Seibo;0;0;26/3/2020;Boletin #8;0;;8
-9;Espaillat;10;0;26/3/2020;Boletin #8;0;;8
-10;Independecia;1;0;26/3/2020;Boletin #8;0;;8
-11;La Altagracia;11;0;26/3/2020;Boletin #8;0;;8
-12;La Romana;8;0;26/3/2020;Boletin #8;0;;8
-13;La Vega;16;0;26/3/2020;Boletin #8;0;;8
-14;Maria Trinidad Sanchez;4;0;26/3/2020;Boletin #8;0;;8
-15;Monte Cristi;0;0;26/3/2020;Boletin #8;0;;8
-16;Pedernales;0;0;26/3/2020;Boletin #8;0;;8
-17;Peravia;1;0;26/3/2020;Boletin #8;0;;8
-18;Puerto Plata;11;0;26/3/2020;Boletin #8;0;;8
-19;Hermanas Mirabal;4;0;26/3/2020;Boletin #8;0;;8
-20;Samana;8;0;26/3/2020;Boletin #8;0;;8
-21;San Cristobal;6;0;26/3/2020;Boletin #8;0;;8
-22;San Juan;2;1;26/3/2020;Boletin #8;0;;8
-23;San Pedro de Macoris;13;1;26/3/2020;Boletin #8;0;;8
-24;Sanchez Ramirez;6;0;26/3/2020;Boletin #8;0;;8
-25;Santiago;66;2;26/3/2020;Boletin #8;0;;8
-26;Santiago Rodriguez;0;0;26/3/2020;Boletin #8;0;;8
-27;Valverde;2;0;26/3/2020;Boletin #8;0;;8
-28;Monsenor Nouel;4;1;26/3/2020;Boletin #8;0;;8
-29;Monte Plata;0;0;26/3/2020;Boletin #8;0;;8
-30;Hato Mayor;2;0;26/3/2020;Boletin #8;0;;8
-31;San Jose De Ocoa;0;0;26/3/2020;Boletin #8;0;;8
-32;Santo Domingo;66;0;26/3/2020;Boletin #8;0;;8
-1;Distrito Nacional;321;4;27/3/2020;Boletin #9;0;;9
-2;Azua;5;0;27/3/2020;Boletin #9;0;;9
-3;Bahoruco;0;0;27/3/2020;Boletin #9;0;;9
-4;Barahona;4;0;27/3/2020;Boletin #9;0;;9
-5;Dajabon;0;0;27/3/2020;Boletin #9;0;;9
-6;Duarte;65;13;27/3/2020;Boletin #9;0;;9
-7;Elias Pina;0;0;27/3/2020;Boletin #9;0;;9
-8;El Seibo;0;0;27/3/2020;Boletin #9;0;;9
-9;Espaillat;11;0;27/3/2020;Boletin #9;0;;9
-10;Independecia;1;0;27/3/2020;Boletin #9;0;;9
-11;La Altagracia;17;0;27/3/2020;Boletin #9;0;;9
-12;La Romana;13;0;27/3/2020;Boletin #9;0;;9
-13;La Vega;33;1;27/3/2020;Boletin #9;0;;9
-14;Maria Trinidad Sanchez;4;0;27/3/2020;Boletin #9;0;;9
-15;Monte Cristi;0;0;27/3/2020;Boletin #9;0;;9
-16;Pedernales;0;0;27/3/2020;Boletin #9;0;;9
-17;Peravia;1;0;27/3/2020;Boletin #9;0;;9
-18;Puerto Plata;13;0;27/3/2020;Boletin #9;0;;9
-19;Hermanas Mirabal;10;0;27/3/2020;Boletin #9;0;;9
-20;Samana;8;1;27/3/2020;Boletin #9;0;;9
-21;San Cristobal;8;0;27/3/2020;Boletin #9;0;;9
-22;San Juan;3;1;27/3/2020;Boletin #9;0;;9
-23;San Pedro de Macoris;15;1;27/3/2020;Boletin #9;0;;9
-24;Sanchez Ramirez;7;0;27/3/2020;Boletin #9;0;;9
-25;Santiago;90;2;27/3/2020;Boletin #9;0;;9
-26;Santiago Rodriguez;0;0;27/3/2020;Boletin #9;0;;9
-27;Valverde;2;0;27/3/2020;Boletin #9;0;;9
-28;Monsenor Nouel;6;1;27/3/2020;Boletin #9;0;;9
-29;Monte Plata;1;0;27/3/2020;Boletin #9;0;;9
-30;Hato Mayor;2;0;27/3/2020;Boletin #9;0;;9
-31;San Jose De Ocoa;0;0;27/3/2020;Boletin #9;0;;9
-32;Santo Domingo;79;4;27/3/2020;Boletin #9;0;;9
-1;Distrito Nacional;376;5;28/3/2020;Boletin #10;0;;10
-2;Azua;6;0;28/3/2020;Boletin #10;0;;10
-3;Bahoruco;0;0;28/3/2020;Boletin #10;0;;10
-4;Barahona;2;0;28/3/2020;Boletin #10;0;;10
-5;Dajabon;0;0;28/3/2020;Boletin #10;0;;10
-6;Duarte;83;21;28/3/2020;Boletin #10;0;;10
-7;Elias Pina;0;0;28/3/2020;Boletin #10;0;;10
-8;El Seibo;0;0;28/3/2020;Boletin #10;0;;10
-9;Espaillat;15;0;28/3/2020;Boletin #10;0;;10
-10;Independecia;1;0;28/3/2020;Boletin #10;0;;10
-11;La Altagracia;21;0;28/3/2020;Boletin #10;0;;10
-12;La Romana;15;0;28/3/2020;Boletin #10;0;;10
-13;La Vega;48;1;28/3/2020;Boletin #10;0;;10
-14;Maria Trinidad Sanchez;4;0;28/3/2020;Boletin #10;0;;10
-15;Monte Cristi;1;0;28/3/2020;Boletin #10;0;;10
-16;Pedernales;0;0;28/3/2020;Boletin #10;0;;10
-17;Peravia;1;0;28/3/2020;Boletin #10;0;;10
-18;Puerto Plata;16;0;28/3/2020;Boletin #10;0;;10
-19;Hermanas Mirabal;10;0;28/3/2020;Boletin #10;0;;10
-20;Samana;9;1;28/3/2020;Boletin #10;0;;10
-21;San Cristobal;9;0;28/3/2020;Boletin #10;0;;10
-22;San Juan;3;1;28/3/2020;Boletin #10;0;;10
-23;San Pedro de Macoris;16;2;28/3/2020;Boletin #10;0;;10
-24;Sanchez Ramirez;7;0;28/3/2020;Boletin #10;0;;10
-25;Santiago;97;2;28/3/2020;Boletin #10;0;;10
-26;Santiago Rodriguez;2;0;28/3/2020;Boletin #10;0;;10
-27;Valverde;2;0;28/3/2020;Boletin #10;0;;10
-28;Monsenor Nouel;11;1;28/3/2020;Boletin #10;0;;10
-29;Monte Plata;1;0;28/3/2020;Boletin #10;0;;10
-30;Hato Mayor;2;0;28/3/2020;Boletin #10;0;;10
-31;San Jose De Ocoa;0;0;28/3/2020;Boletin #10;0;;10
-32;Santo Domingo;101;5;28/3/2020;Boletin #10;0;;10
-1;Distrito Nacional;381;5;29/3/2020;Boletin #11;0;;11
-2;Azua;7;0;29/3/2020;Boletin #11;0;;11
-3;Bahoruco;0;0;29/3/2020;Boletin #11;0;;11
-4;Barahona;3;0;29/3/2020;Boletin #11;0;;11
-5;Dajabon;0;0;29/3/2020;Boletin #11;0;;11
-6;Duarte;90;22;29/3/2020;Boletin #11;0;;11
-7;Elias Pina;0;0;29/3/2020;Boletin #11;0;;11
-8;El Seibo;0;0;29/3/2020;Boletin #11;0;;11
-9;Espaillat;15;0;29/3/2020;Boletin #11;0;;11
-10;Independecia;1;0;29/3/2020;Boletin #11;0;;11
-11;La Altagracia;29;0;29/3/2020;Boletin #11;0;;11
-12;La Romana;21;0;29/3/2020;Boletin #11;0;;11
-13;La Vega;48;1;29/3/2020;Boletin #11;0;;11
-14;Maria Trinidad Sanchez;4;0;29/3/2020;Boletin #11;0;;11
-15;Monte Cristi;1;0;29/3/2020;Boletin #11;0;;11
-16;Pedernales;1;0;29/3/2020;Boletin #11;0;;11
-17;Peravia;4;0;29/3/2020;Boletin #11;0;;11
-18;Puerto Plata;16;0;29/3/2020;Boletin #11;0;;11
-19;Hermanas Mirabal;10;0;29/3/2020;Boletin #11;0;;11
-20;Samana;9;1;29/3/2020;Boletin #11;0;;11
-21;San Cristobal;9;0;29/3/2020;Boletin #11;0;;11
-22;San Juan;5;1;29/3/2020;Boletin #11;0;;11
-23;San Pedro de Macoris;17;2;29/3/2020;Boletin #11;0;;11
-24;Sanchez Ramirez;9;2;29/3/2020;Boletin #11;0;;11
-25;Santiago;97;2;29/3/2020;Boletin #11;0;;11
-26;Santiago Rodriguez;2;0;29/3/2020;Boletin #11;0;;11
-27;Valverde;2;0;29/3/2020;Boletin #11;0;;11
-28;Monsenor Nouel;11;1;29/3/2020;Boletin #11;0;;11
-29;Monte Plata;1;0;29/3/2020;Boletin #11;0;;11
-30;Hato Mayor;2;0;29/3/2020;Boletin #11;0;;11
-31;San Jose De Ocoa;0;0;29/3/2020;Boletin #11;0;;11
-32;Santo Domingo;106;5;29/3/2020;Boletin #11;0;;11
-1;Distrito Nacional;462;9;30/3/2020;Boletin #12;0;;12
-2;Azua;7;0;30/3/2020;Boletin #12;0;;12
-3;Bahoruco;0;0;30/3/2020;Boletin #12;0;;12
-4;Barahona;3;0;30/3/2020;Boletin #12;0;;12
-5;Dajabon;0;0;30/3/2020;Boletin #12;0;;12
-6;Duarte;94;22;30/3/2020;Boletin #12;0;;12
-7;Elias Pina;0;0;30/3/2020;Boletin #12;0;;12
-8;El Seibo;0;0;30/3/2020;Boletin #12;0;;12
-9;Espaillat;22;0;30/3/2020;Boletin #12;0;;12
-10;Independecia;1;0;30/3/2020;Boletin #12;0;;12
-11;La Altagracia;29;0;30/3/2020;Boletin #12;0;;12
-12;La Romana;21;0;30/3/2020;Boletin #12;0;;12
-13;La Vega;65;2;30/3/2020;Boletin #12;0;;12
-14;Maria Trinidad Sanchez;6;1;30/3/2020;Boletin #12;0;;12
-15;Monte Cristi;1;0;30/3/2020;Boletin #12;0;;12
-16;Pedernales;1;0;30/3/2020;Boletin #12;0;;12
-17;Peravia;4;0;30/3/2020;Boletin #12;0;;12
-18;Puerto Plata;28;0;30/3/2020;Boletin #12;0;;12
-19;Hermanas Mirabal;11;0;30/3/2020;Boletin #12;0;;12
-20;Samana;12;1;30/3/2020;Boletin #12;0;;12
-21;San Cristobal;13;1;30/3/2020;Boletin #12;0;;12
-22;San Juan;5;2;30/3/2020;Boletin #12;0;;12
-23;San Pedro de Macoris;18;3;30/3/2020;Boletin #12;0;;12
-24;Sanchez Ramirez;10;2;30/3/2020;Boletin #12;0;;12
-25;Santiago;122;2;30/3/2020;Boletin #12;0;;12
-26;Santiago Rodriguez;2;0;30/3/2020;Boletin #12;0;;12
-27;Valverde;4;0;30/3/2020;Boletin #12;0;;12
-28;Monsenor Nouel;19;1;30/3/2020;Boletin #12;0;;12
-29;Monte Plata;1;0;30/3/2020;Boletin #12;0;;12
-30;Hato Mayor;3;0;30/3/2020;Boletin #12;0;;12
-31;San Jose De Ocoa;0;0;30/3/2020;Boletin #12;0;;12
-32;Santo Domingo;145;5;30/3/2020;Boletin #12;0;;12
-1;Distrito Nacional;520;11;31/3/2020;Boletin #13;0;;13
-2;Azua;7;0;31/3/2020;Boletin #13;0;;13
-3;Bahoruco;0;0;31/3/2020;Boletin #13;0;;13
-4;Barahona;7;0;31/3/2020;Boletin #13;0;;13
-5;Dajabon;1;0;31/3/2020;Boletin #13;0;;13
-6;Duarte;101;23;31/3/2020;Boletin #13;0;;13
-7;Elias Pina;0;0;31/3/2020;Boletin #13;0;;13
-8;El Seibo;1;1;31/3/2020;Boletin #13;0;;13
-9;Espaillat;28;0;31/3/2020;Boletin #13;0;;13
-10;Independecia;1;0;31/3/2020;Boletin #13;0;;13
-11;La Altagracia;32;0;31/3/2020;Boletin #13;0;;13
-12;La Romana;24;0;31/3/2020;Boletin #13;0;;13
-13;La Vega;84;2;31/3/2020;Boletin #13;0;;13
-14;Maria Trinidad Sanchez;6;1;31/3/2020;Boletin #13;0;;13
-15;Monte Cristi;2;0;31/3/2020;Boletin #13;0;;13
-16;Pedernales;1;0;31/3/2020;Boletin #13;0;;13
-17;Peravia;4;0;31/3/2020;Boletin #13;0;;13
-18;Puerto Plata;28;0;31/3/2020;Boletin #13;0;;13
-19;Hermanas Mirabal;15;0;31/3/2020;Boletin #13;0;;13
-20;Samana;13;1;31/3/2020;Boletin #13;0;;13
-21;San Cristobal;21;1;31/3/2020;Boletin #13;0;;13
-22;San Juan;7;2;31/3/2020;Boletin #13;0;;13
-23;San Pedro de Macoris;20;3;31/3/2020;Boletin #13;0;;13
-24;Sanchez Ramirez;13;2;31/3/2020;Boletin #13;0;;13
-25;Santiago;138;2;31/3/2020;Boletin #13;0;;13
-26;Santiago Rodriguez;2;0;31/3/2020;Boletin #13;0;;13
-27;Valverde;8;0;31/3/2020;Boletin #13;0;;13
-28;Monsenor Nouel;27;1;31/3/2020;Boletin #13;0;;13
-29;Monte Plata;2;1;31/3/2020;Boletin #13;0;;13
-30;Hato Mayor;3;0;31/3/2020;Boletin #13;0;;13
-31;San Jose De Ocoa;0;0;31/3/2020;Boletin #13;0;;13
-32;Santo Domingo;168;6;31/3/2020;Boletin #13;0;;13
-1;Distrito Nacional;535;11;1/4/2020;Boletin #14;0;;14
-2;Azua;7;0;1/4/2020;Boletin #14;0;;14
-3;Bahoruco;0;0;1/4/2020;Boletin #14;0;;14
-4;Barahona;11;0;1/4/2020;Boletin #14;0;;14
-5;Dajabon;1;0;1/4/2020;Boletin #14;0;;14
-6;Duarte;110;24;1/4/2020;Boletin #14;0;;14
-7;Elias Pina;0;0;1/4/2020;Boletin #14;0;;14
-8;El Seibo;1;0;1/4/2020;Boletin #14;0;;14
-9;Espaillat;28;0;1/4/2020;Boletin #14;0;;14
-10;Independecia;1;0;1/4/2020;Boletin #14;0;;14
-11;La Altagracia;35;0;1/4/2020;Boletin #14;0;;14
-12;La Romana;28;1;1/4/2020;Boletin #14;0;;14
-13;La Vega;88;2;1/4/2020;Boletin #14;0;;14
-14;Maria Trinidad Sanchez;8;1;1/4/2020;Boletin #14;0;;14
-15;Monte Cristi;2;0;1/4/2020;Boletin #14;0;;14
-16;Pedernales;1;0;1/4/2020;Boletin #14;0;;14
-17;Peravia;4;0;1/4/2020;Boletin #14;0;;14
-18;Puerto Plata;30;0;1/4/2020;Boletin #14;0;;14
-19;Hermanas Mirabal;17;0;1/4/2020;Boletin #14;0;;14
-20;Samana;13;1;1/4/2020;Boletin #14;0;;14
-21;San Cristobal;21;1;1/4/2020;Boletin #14;0;;14
-22;San Juan;7;2;1/4/2020;Boletin #14;0;;14
-23;San Pedro de Macoris;23;3;1/4/2020;Boletin #14;0;;14
-24;Sanchez Ramirez;17;2;1/4/2020;Boletin #14;0;;14
-25;Santiago;159;2;1/4/2020;Boletin #14;0;;14
-26;Santiago Rodriguez;2;0;1/4/2020;Boletin #14;0;;14
-27;Valverde;8;0;1/4/2020;Boletin #14;0;;14
-28;Monsenor Nouel;28;2;1/4/2020;Boletin #14;0;;14
-29;Monte Plata;2;1;1/4/2020;Boletin #14;0;;14
-30;Hato Mayor;3;0;1/4/2020;Boletin #14;0;;14
-31;San Jose De Ocoa;0;0;1/4/2020;Boletin #14;0;;14
-32;Santo Domingo;190;7;1/4/2020;Boletin #14;0;;14
-1;Distrito Nacional;588;11;2/4/2020;Boletin #15;0;;15
-2;Azua;7;0;2/4/2020;Boletin #15;0;;15
-3;Bahoruco;1;0;2/4/2020;Boletin #15;0;;15
-4;Barahona;11;0;2/4/2020;Boletin #15;0;;15
-5;Dajabon;1;0;2/4/2020;Boletin #15;0;;15
-6;Duarte;112;24;2/4/2020;Boletin #15;0;;15
-7;Elias Pina;0;0;2/4/2020;Boletin #15;0;;15
-8;El Seibo;1;0;2/4/2020;Boletin #15;0;;15
-9;Espaillat;30;1;2/4/2020;Boletin #15;0;;15
-10;Independecia;1;0;2/4/2020;Boletin #15;0;;15
-11;La Altagracia;35;1;2/4/2020;Boletin #15;0;;15
-12;La Romana;28;1;2/4/2020;Boletin #15;0;;15
-13;La Vega;93;3;2/4/2020;Boletin #15;0;;15
-14;Maria Trinidad Sanchez;9;1;2/4/2020;Boletin #15;0;;15
-15;Monte Cristi;2;0;2/4/2020;Boletin #15;0;;15
-16;Pedernales;1;0;2/4/2020;Boletin #15;0;;15
-17;Peravia;4;0;2/4/2020;Boletin #15;0;;15
-18;Puerto Plata;33;0;2/4/2020;Boletin #15;0;;15
-19;Hermanas Mirabal;17;0;2/4/2020;Boletin #15;0;;15
-20;Samana;15;1;2/4/2020;Boletin #15;0;;15
-21;San Cristobal;22;1;2/4/2020;Boletin #15;0;;15
-22;San Juan;8;3;2/4/2020;Boletin #15;0;;15
-23;San Pedro de Macoris;23;3;2/4/2020;Boletin #15;0;;15
-24;Sanchez Ramirez;20;2;2/4/2020;Boletin #15;0;;15
-25;Santiago;176;5;2/4/2020;Boletin #15;0;;15
-26;Santiago Rodriguez;5;0;2/4/2020;Boletin #15;0;;15
-27;Valverde;8;0;2/4/2020;Boletin #15;0;;15
-28;Monsenor Nouel;28;2;2/4/2020;Boletin #15;0;;15
-29;Monte Plata;4;1;2/4/2020;Boletin #15;0;;15
-30;Hato Mayor;4;0;2/4/2020;Boletin #15;0;;15
-31;San Jose De Ocoa;0;0;2/4/2020;Boletin #15;0;;15
-32;Santo Domingo;201;8;2/4/2020;Boletin #15;0;;15
-1;Distrito Nacional;624;11;3/4/2020;Boletin #16;0;;16
-2;Azua;7;0;3/4/2020;Boletin #16;0;;16
-3;Bahoruco;1;0;3/4/2020;Boletin #16;0;;16
-4;Barahona;11;0;3/4/2020;Boletin #16;0;;16
-5;Dajabon;1;0;3/4/2020;Boletin #16;0;;16
-6;Duarte;112;24;3/4/2020;Boletin #16;0;;16
-7;Elias Pina;0;0;3/4/2020;Boletin #16;0;;16
-8;El Seibo;1;0;3/4/2020;Boletin #16;0;;16
-9;Espaillat;32;1;3/4/2020;Boletin #16;0;;16
-10;Independecia;1;0;3/4/2020;Boletin #16;0;;16
-11;La Altagracia;35;1;3/4/2020;Boletin #16;0;;16
-12;La Romana;29;1;3/4/2020;Boletin #16;0;;16
-13;La Vega;96;4;3/4/2020;Boletin #16;0;;16
-14;Maria Trinidad Sanchez;10;1;3/4/2020;Boletin #16;0;;16
-15;Monte Cristi;2;0;3/4/2020;Boletin #16;0;;16
-16;Pedernales;1;0;3/4/2020;Boletin #16;0;;16
-17;Peravia;5;0;3/4/2020;Boletin #16;0;;16
-18;Puerto Plata;34;0;3/4/2020;Boletin #16;0;;16
-19;Hermanas Mirabal;18;2;3/4/2020;Boletin #16;0;;16
-20;Samana;15;1;3/4/2020;Boletin #16;0;;16
-21;San Cristobal;24;1;3/4/2020;Boletin #16;0;;16
-22;San Juan;8;3;3/4/2020;Boletin #16;0;;16
-23;San Pedro de Macoris;23;4;3/4/2020;Boletin #16;0;;16
-24;Sanchez Ramirez;20;2;3/4/2020;Boletin #16;0;;16
-25;Santiago;193;6;3/4/2020;Boletin #16;0;;16
-26;Santiago Rodriguez;5;0;3/4/2020;Boletin #16;0;;16
-27;Valverde;10;0;3/4/2020;Boletin #16;0;;16
-28;Monsenor Nouel;28;2;3/4/2020;Boletin #16;0;;16
-29;Monte Plata;4;1;3/4/2020;Boletin #16;0;;16
-30;Hato Mayor;4;0;3/4/2020;Boletin #16;0;;16
-31;San Jose De Ocoa;0;0;3/4/2020;Boletin #16;0;;16
-32;Santo Domingo;224;12;3/4/2020;Boletin #16;0;;16
-1;Distrito Nacional;665;13;4/4/2020;Boletin #17;0;;17
-2;Azua;7;0;4/4/2020;Boletin #17;0;;17
-3;Bahoruco;1;0;4/4/2020;Boletin #17;0;;17
-4;Barahona;12;0;4/4/2020;Boletin #17;0;;17
-5;Dajabon;1;0;4/4/2020;Boletin #17;0;;17
-6;Duarte;132;25;4/4/2020;Boletin #17;0;;17
-7;Elias Pina;0;0;4/4/2020;Boletin #17;0;;17
-8;El Seibo;1;0;4/4/2020;Boletin #17;0;;17
-9;Espaillat;44;1;4/4/2020;Boletin #17;0;;17
-10;Independecia;1;0;4/4/2020;Boletin #17;0;;17
-11;La Altagracia;40;1;4/4/2020;Boletin #17;0;;17
-12;La Romana;32;1;4/4/2020;Boletin #17;0;;17
-13;La Vega;109;5;4/4/2020;Boletin #17;0;;17
-14;Maria Trinidad Sanchez;10;1;4/4/2020;Boletin #17;0;;17
-15;Monte Cristi;3;0;4/4/2020;Boletin #17;0;;17
-16;Pedernales;1;0;4/4/2020;Boletin #17;0;;17
-17;Peravia;7;0;4/4/2020;Boletin #17;0;;17
-18;Puerto Plata;34;0;4/4/2020;Boletin #17;0;;17
-19;Hermanas Mirabal;19;2;4/4/2020;Boletin #17;0;;17
-20;Samana;15;1;4/4/2020;Boletin #17;0;;17
-21;San Cristobal;32;1;4/4/2020;Boletin #17;0;;17
-22;San Juan;11;3;4/4/2020;Boletin #17;0;;17
-23;San Pedro de Macoris;24;4;4/4/2020;Boletin #17;0;;17
-24;Sanchez Ramirez;27;2;4/4/2020;Boletin #17;0;;17
-25;Santiago;194;6;4/4/2020;Boletin #17;0;;17
-26;Santiago Rodriguez;18;0;4/4/2020;Boletin #17;0;;17
-27;Valverde;10;0;4/4/2020;Boletin #17;0;;17
-28;Monsenor Nouel;30;2;4/4/2020;Boletin #17;0;;17
-29;Monte Plata;4;1;4/4/2020;Boletin #17;0;;17
-30;Hato Mayor;4;0;4/4/2020;Boletin #17;0;;17
-31;San Jose De Ocoa;0;0;4/4/2020;Boletin #17;0;;17
-32;Santo Domingo;257;13;4/4/2020;Boletin #17;0;;17
-1;Distrito Nacional;696;13;5/4/2020;Boletin #18;0;;18
-2;Azua;7;0;5/4/2020;Boletin #18;0;;18
-3;Bahoruco;1;0;5/4/2020;Boletin #18;0;;18
-4;Barahona;12;0;5/4/2020;Boletin #18;0;;18
-5;Dajabon;1;0;5/4/2020;Boletin #18;0;;18
-6;Duarte;141;26;5/4/2020;Boletin #18;0;;18
-7;Elias Pina;0;0;5/4/2020;Boletin #18;0;;18
-8;El Seibo;1;0;5/4/2020;Boletin #18;0;;18
-9;Espaillat;44;1;5/4/2020;Boletin #18;0;;18
-10;Independecia;1;0;5/4/2020;Boletin #18;0;;18
-11;La Altagracia;44;1;5/4/2020;Boletin #18;0;;18
-12;La Romana;33;1;5/4/2020;Boletin #18;0;;18
-13;La Vega;109;5;5/4/2020;Boletin #18;0;;18
-14;Maria Trinidad Sanchez;12;1;5/4/2020;Boletin #18;0;;18
-15;Monte Cristi;3;0;5/4/2020;Boletin #18;0;;18
-16;Pedernales;1;0;5/4/2020;Boletin #18;0;;18
-17;Peravia;7;0;5/4/2020;Boletin #18;0;;18
-18;Puerto Plata;38;0;5/4/2020;Boletin #18;0;;18
-19;Hermanas Mirabal;20;2;5/4/2020;Boletin #18;0;;18
-20;Samana;15;1;5/4/2020;Boletin #18;0;;18
-21;San Cristobal;32;1;5/4/2020;Boletin #18;0;;18
-22;San Juan;12;3;5/4/2020;Boletin #18;0;;18
-23;San Pedro de Macoris;24;4;5/4/2020;Boletin #18;0;;18
-24;Sanchez Ramirez;29;2;5/4/2020;Boletin #18;0;;18
-25;Santiago;204;8;5/4/2020;Boletin #18;0;;18
-26;Santiago Rodriguez;18;0;5/4/2020;Boletin #18;0;;18
-27;Valverde;10;0;5/4/2020;Boletin #18;0;;18
-28;Monsenor Nouel;31;2;5/4/2020;Boletin #18;0;;18
-29;Monte Plata;4;1;5/4/2020;Boletin #18;0;;18
-30;Hato Mayor;4;0;5/4/2020;Boletin #18;0;;18
-31;San Jose De Ocoa;0;0;5/4/2020;Boletin #18;0;;18
-32;Santo Domingo;274;14;5/4/2020;Boletin #18;0;;18
-1;Distrito Nacional;723;15;6/4/2020;Boletin #19;0;;19
-2;Azua;8;0;6/4/2020;Boletin #19;0;;19
-3;Bahoruco;1;0;6/4/2020;Boletin #19;0;;19
-4;Barahona;12;0;6/4/2020;Boletin #19;0;;19
-5;Dajabon;1;0;6/4/2020;Boletin #19;0;;19
-6;Duarte;141;33;6/4/2020;Boletin #19;0;;19
-7;Elias Pina;0;0;6/4/2020;Boletin #19;0;;19
-8;El Seibo;2;0;6/4/2020;Boletin #19;0;;19
-9;Espaillat;46;1;6/4/2020;Boletin #19;0;;19
-10;Independecia;1;0;6/4/2020;Boletin #19;0;;19
-11;La Altagracia;44;1;6/4/2020;Boletin #19;0;;19
-12;La Romana;35;1;6/4/2020;Boletin #19;0;;19
-13;La Vega;109;6;6/4/2020;Boletin #19;0;;19
-14;Maria Trinidad Sanchez;19;1;6/4/2020;Boletin #19;0;;19
-15;Monte Cristi;3;0;6/4/2020;Boletin #19;0;;19
-16;Pedernales;1;0;6/4/2020;Boletin #19;0;;19
-17;Peravia;10;1;6/4/2020;Boletin #19;0;;19
-18;Puerto Plata;38;0;6/4/2020;Boletin #19;0;;19
-19;Hermanas Mirabal;23;2;6/4/2020;Boletin #19;0;;19
-20;Samana;15;1;6/4/2020;Boletin #19;0;;19
-21;San Cristobal;34;1;6/4/2020;Boletin #19;0;;19
-22;San Juan;13;3;6/4/2020;Boletin #19;0;;19
-23;San Pedro de Macoris;26;4;6/4/2020;Boletin #19;0;;19
-24;Sanchez Ramirez;29;3;6/4/2020;Boletin #19;0;;19
-25;Santiago;245;8;6/4/2020;Boletin #19;0;;19
-26;Santiago Rodriguez;5;0;6/4/2020;Boletin #19;0;;19
-27;Valverde;11;0;6/4/2020;Boletin #19;0;;19
-28;Monsenor Nouel;39;2;6/4/2020;Boletin #19;0;;19
-29;Monte Plata;4;1;6/4/2020;Boletin #19;0;;19
-30;Hato Mayor;4;0;6/4/2020;Boletin #19;0;;19
-31;San Jose De Ocoa;0;0;6/4/2020;Boletin #19;0;;19
-32;Santo Domingo;314;14;6/4/2020;Boletin #19;0;;19
-1;Distrito Nacional;762;17;7/4/2020;Boletin #20;0;;20
-2;Azua;9;0;7/4/2020;Boletin #20;0;;20
-3;Bahoruco;1;0;7/4/2020;Boletin #20;0;;20
-4;Barahona;12;0;7/4/2020;Boletin #20;0;;20
-5;Dajabon;1;0;7/4/2020;Boletin #20;0;;20
-6;Duarte;154;38;7/4/2020;Boletin #20;0;;20
-7;Elias Pina;0;0;7/4/2020;Boletin #20;0;;20
-8;El Seibo;2;0;7/4/2020;Boletin #20;0;;20
-9;Espaillat;55;1;7/4/2020;Boletin #20;0;;20
-10;Independecia;1;0;7/4/2020;Boletin #20;0;;20
-11;La Altagracia;44;1;7/4/2020;Boletin #20;0;;20
-12;La Romana;35;1;7/4/2020;Boletin #20;0;;20
-13;La Vega;109;6;7/4/2020;Boletin #20;0;;20
-14;Maria Trinidad Sanchez;20;1;7/4/2020;Boletin #20;0;;20
-15;Monte Cristi;3;0;7/4/2020;Boletin #20;0;;20
-16;Pedernales;1;0;7/4/2020;Boletin #20;0;;20
-17;Peravia;12;1;7/4/2020;Boletin #20;0;;20
-18;Puerto Plata;42;0;7/4/2020;Boletin #20;0;;20
-19;Hermanas Mirabal;28;2;7/4/2020;Boletin #20;0;;20
-20;Samana;15;1;7/4/2020;Boletin #20;0;;20
-21;San Cristobal;40;1;7/4/2020;Boletin #20;0;;20
-22;San Juan;13;3;7/4/2020;Boletin #20;0;;20
-23;San Pedro de Macoris;26;4;7/4/2020;Boletin #20;0;;20
-24;Sanchez Ramirez;34;3;7/4/2020;Boletin #20;0;;20
-25;Santiago;274;8;7/4/2020;Boletin #20;0;;20
-26;Santiago Rodriguez;5;0;7/4/2020;Boletin #20;0;;20
-27;Valverde;11;0;7/4/2020;Boletin #20;0;;20
-28;Monsenor Nouel;45;3;7/4/2020;Boletin #20;0;;20
-29;Monte Plata;4;1;7/4/2020;Boletin #20;0;;20
-30;Hato Mayor;5;0;7/4/2020;Boletin #20;0;;20
-31;San Jose De Ocoa;0;0;7/4/2020;Boletin #20;0;;20
-32;Santo Domingo;348;16;7/4/2020;Boletin #20;0;;20
-1;Distrito Nacional;800;18;8/4/2020;Boletin #21;46;;21
-2;Azua;10;1;8/4/2020;Boletin #21;0;;21
-3;Bahoruco;1;0;8/4/2020;Boletin #21;0;;21
-4;Barahona;12;0;8/4/2020;Boletin #21;0;;21
-5;Dajabon;1;0;8/4/2020;Boletin #21;0;;21
-6;Duarte;196;40;8/4/2020;Boletin #21;5;;21
-7;Elias Pina;0;0;8/4/2020;Boletin #21;0;;21
-8;El Seibo;2;0;8/4/2020;Boletin #21;0;;21
-9;Espaillat;60;1;8/4/2020;Boletin #21;0;;21
-10;Independecia;1;0;8/4/2020;Boletin #21;0;;21
-11;La Altagracia;48;1;8/4/2020;Boletin #21;1;;21
-12;La Romana;38;1;8/4/2020;Boletin #21;1;;21
-13;La Vega;126;6;8/4/2020;Boletin #21;1;;21
-14;Maria Trinidad Sanchez;26;1;8/4/2020;Boletin #21;0;;21
-15;Monte Cristi;4;0;8/4/2020;Boletin #21;0;;21
-16;Pedernales;1;0;8/4/2020;Boletin #21;0;;21
-17;Peravia;13;1;8/4/2020;Boletin #21;0;;21
-18;Puerto Plata;52;1;8/4/2020;Boletin #21;2;;21
-19;Hermanas Mirabal;35;2;8/4/2020;Boletin #21;2;;21
-20;Samana;15;1;8/4/2020;Boletin #21;4;;21
-21;San Cristobal;45;1;8/4/2020;Boletin #21;2;;21
-22;San Juan;14;3;8/4/2020;Boletin #21;0;;21
-23;San Pedro de Macoris;26;4;8/4/2020;Boletin #21;2;;21
-24;Sanchez Ramirez;42;4;8/4/2020;Boletin #21;0;;21
-25;Santiago;309;8;8/4/2020;Boletin #21;6;;21
-26;Santiago Rodriguez;7;0;8/4/2020;Boletin #21;0;;21
-27;Valverde;11;0;8/4/2020;Boletin #21;1;;21
-28;Monsenor Nouel;56;3;8/4/2020;Boletin #21;0;;21
-29;Monte Plata;4;2;8/4/2020;Boletin #21;0;;21
-30;Hato Mayor;5;0;8/4/2020;Boletin #21;0;;21
-31;San Jose De Ocoa;0;0;8/4/2020;Boletin #21;0;;21
-32;Santo Domingo;389;19;8/4/2020;Boletin #21;7;;21
-1;Distrito Nacional;859;18;9/4/2020;Boletin #22;60;;22
-2;Azua;10;1;9/4/2020;Boletin #22;0;;22
-3;Bahoruco;1;0;9/4/2020;Boletin #22;0;;22
-4;Barahona;15;0;9/4/2020;Boletin #22;0;;22
-5;Dajabon;1;0;9/4/2020;Boletin #22;0;;22
-6;Duarte;233;42;9/4/2020;Boletin #22;5;;22
-7;Elias Pina;0;0;9/4/2020;Boletin #22;0;;22
-8;El Seibo;3;0;9/4/2020;Boletin #22;0;;22
-9;Espaillat;64;1;9/4/2020;Boletin #22;0;;22
-10;Independecia;1;0;9/4/2020;Boletin #22;0;;22
-11;La Altagracia;54;1;9/4/2020;Boletin #22;1;;22
-12;La Romana;44;1;9/4/2020;Boletin #22;1;;22
-13;La Vega;147;6;9/4/2020;Boletin #22;1;;22
-14;Maria Trinidad Sanchez;28;1;9/4/2020;Boletin #22;0;;22
-15;Monte Cristi;4;0;9/4/2020;Boletin #22;0;;22
-16;Pedernales;3;0;9/4/2020;Boletin #22;0;;22
-17;Peravia;14;1;9/4/2020;Boletin #22;0;;22
-18;Puerto Plata;54;1;9/4/2020;Boletin #22;2;;22
-19;Hermanas Mirabal;40;2;9/4/2020;Boletin #22;2;;22
-20;Samana;15;1;9/4/2020;Boletin #22;4;;22
-21;San Cristobal;47;1;9/4/2020;Boletin #22;2;;22
-22;San Juan;14;3;9/4/2020;Boletin #22;1;;22
-23;San Pedro de Macoris;32;4;9/4/2020;Boletin #22;2;;22
-24;Sanchez Ramirez;48;4;9/4/2020;Boletin #22;0;;22
-25;Santiago;339;8;9/4/2020;Boletin #22;7;;22
-26;Santiago Rodriguez;7;0;9/4/2020;Boletin #22;0;;22
-27;Valverde;16;0;9/4/2020;Boletin #22;1;;22
-28;Monsenor Nouel;72;3;9/4/2020;Boletin #22;1;;22
-29;Monte Plata;5;2;9/4/2020;Boletin #22;0;;22
-30;Hato Mayor;5;1;9/4/2020;Boletin #22;0;;22
-31;San Jose De Ocoa;0;0;9/4/2020;Boletin #22;0;;22
-32;Santo Domingo;445;24;9/4/2020;Boletin #22;8;;22
-1;Distrito Nacional;886;18;10/4/2020;Boletin #23;67;;23
-2;Azua;11;1;10/4/2020;Boletin #23;0;;23
-3;Bahoruco;1;0;10/4/2020;Boletin #23;0;;23
-4;Barahona;15;0;10/4/2020;Boletin #23;0;;23
-5;Dajabon;1;0;10/4/2020;Boletin #23;0;;23
-6;Duarte;252;44;10/4/2020;Boletin #23;5;;23
-7;Elias Pina;0;0;10/4/2020;Boletin #23;0;;23
-8;El Seibo;3;0;10/4/2020;Boletin #23;0;;23
-9;Espaillat;66;2;10/4/2020;Boletin #23;0;;23
-10;Independecia;1;0;10/4/2020;Boletin #23;0;;23
-11;La Altagracia;64;1;10/4/2020;Boletin #23;2;;23
-12;La Romana;46;1;10/4/2020;Boletin #23;1;;23
-13;La Vega;162;6;10/4/2020;Boletin #23;2;;23
-14;Maria Trinidad Sanchez;34;1;10/4/2020;Boletin #23;0;;23
-15;Monte Cristi;4;0;10/4/2020;Boletin #23;0;;23
-16;Pedernales;3;0;10/4/2020;Boletin #23;0;;23
-17;Peravia;17;1;10/4/2020;Boletin #23;0;;23
-18;Puerto Plata;56;1;10/4/2020;Boletin #23;2;;23
-19;Hermanas Mirabal;45;7;10/4/2020;Boletin #23;2;;23
-20;Samana;15;1;10/4/2020;Boletin #23;4;;23
-21;San Cristobal;50;1;10/4/2020;Boletin #23;2;;23
-22;San Juan;14;3;10/4/2020;Boletin #23;1;;23
-23;San Pedro de Macoris;35;5;10/4/2020;Boletin #23;2;;23
-24;Sanchez Ramirez;50;4;10/4/2020;Boletin #23;0;;23
-25;Santiago;350;8;10/4/2020;Boletin #23;7;;23
-26;Santiago Rodriguez;7;0;10/4/2020;Boletin #23;0;;23
-27;Valverde;17;0;10/4/2020;Boletin #23;1;;23
-28;Monsenor Nouel;73;3;10/4/2020;Boletin #23;1;;23
-29;Monte Plata;5;2;10/4/2020;Boletin #23;0;;23
-30;Hato Mayor;5;1;10/4/2020;Boletin #23;0;;23
-31;San Jose De Ocoa;0;0;10/4/2020;Boletin #23;0;;23
-32;Santo Domingo;471;24;10/4/2020;Boletin #23;9;;23
-1;Distrito Nacional;921;21;11/4/2020;Boletin #24;73;;24
-2;Azua;12;1;11/4/2020;Boletin #24;0;;24
-3;Bahoruco;1;0;11/4/2020;Boletin #24;0;;24
-4;Barahona;15;0;11/4/2020;Boletin #24;0;;24
-5;Dajabon;1;0;11/4/2020;Boletin #24;14;;24
-6;Duarte;273;55;11/4/2020;Boletin #24;0;;24
-7;Elias Pina;0;0;11/4/2020;Boletin #24;0;;24
-8;El Seibo;3;0;11/4/2020;Boletin #24;0;;24
-9;Espaillat;67;3;11/4/2020;Boletin #24;0;;24
-10;Independecia;1;0;11/4/2020;Boletin #24;0;;24
-11;La Altagracia;64;1;11/4/2020;Boletin #24;2;;24
-12;La Romana;51;1;11/4/2020;Boletin #24;2;;24
-13;La Vega;192;6;11/4/2020;Boletin #24;2;;24
-14;Maria Trinidad Sanchez;36;1;11/4/2020;Boletin #24;1;;24
-15;Monte Cristi;6;0;11/4/2020;Boletin #24;0;;24
-16;Pedernales;3;0;11/4/2020;Boletin #24;0;;24
-17;Peravia;21;1;11/4/2020;Boletin #24;0;;24
-18;Puerto Plata;73;8;11/4/2020;Boletin #24;2;;24
-19;Hermanas Mirabal;50;9;11/4/2020;Boletin #24;2;;24
-20;Samana;15;1;11/4/2020;Boletin #24;5;;24
-21;San Cristobal;61;2;11/4/2020;Boletin #24;2;;24
-22;San Juan;20;3;11/4/2020;Boletin #24;1;;24
-23;San Pedro de Macoris;35;7;11/4/2020;Boletin #24;3;;24
-24;Sanchez Ramirez;55;4;11/4/2020;Boletin #24;0;;24
-25;Santiago;363;14;11/4/2020;Boletin #24;10;;24
-26;Santiago Rodriguez;8;0;11/4/2020;Boletin #24;0;;24
-27;Valverde;17;0;11/4/2020;Boletin #24;1;;24
-28;Monsenor Nouel;78;3;11/4/2020;Boletin #24;1;;24
-29;Monte Plata;5;2;11/4/2020;Boletin #24;0;;24
-30;Hato Mayor;7;1;11/4/2020;Boletin #24;0;;24
-31;San Jose De Ocoa;1;1;11/4/2020;Boletin #24;0;;24
-32;Santo Domingo;512;28;11/4/2020;Boletin #24;10;;24
-1;Distrito Nacional;948;21;12/4/2020;Boletin #25;82;;25
-2;Azua;15;1;12/4/2020;Boletin #25;0;;25
-3;Bahoruco;1;0;12/4/2020;Boletin #25;0;;25
-4;Barahona;15;0;12/4/2020;Boletin #25;0;;25
-5;Dajabon;1;0;12/4/2020;Boletin #25;0;;25
-6;Duarte;300;57;12/4/2020;Boletin #25;18;;25
-7;Elias Pina;0;0;12/4/2020;Boletin #25;0;;25
-8;El Seibo;3;0;12/4/2020;Boletin #25;0;;25
-9;Espaillat;72;3;12/4/2020;Boletin #25;0;;25
-10;Independecia;1;0;12/4/2020;Boletin #25;0;;25
-11;La Altagracia;69;1;12/4/2020;Boletin #25;3;;25
-12;La Romana;60;1;12/4/2020;Boletin #25;2;;25
-13;La Vega;200;6;12/4/2020;Boletin #25;2;;25
-14;Maria Trinidad Sanchez;38;1;12/4/2020;Boletin #25;1;;25
-15;Monte Cristi;9;0;12/4/2020;Boletin #25;0;;25
-16;Pedernales;3;0;12/4/2020;Boletin #25;0;;25
-17;Peravia;25;1;12/4/2020;Boletin #25;0;;25
-18;Puerto Plata;87;8;12/4/2020;Boletin #25;2;;25
-19;Hermanas Mirabal;55;9;12/4/2020;Boletin #25;2;;25
-20;Samana;15;1;12/4/2020;Boletin #25;5;;25
-21;San Cristobal;66;2;12/4/2020;Boletin #25;2;;25
-22;San Juan;20;3;12/4/2020;Boletin #25;1;;25
-23;San Pedro de Macoris;38;7;12/4/2020;Boletin #25;4;;25
-24;Sanchez Ramirez;58;5;12/4/2020;Boletin #25;0;;25
-25;Santiago;403;14;12/4/2020;Boletin #25;13;;25
-26;Santiago Rodriguez;8;0;12/4/2020;Boletin #25;0;;25
-27;Valverde;18;0;12/4/2020;Boletin #25;1;;25
-28;Monsenor Nouel;79;3;12/4/2020;Boletin #25;1;;25
-29;Monte Plata;5;2;12/4/2020;Boletin #25;0;;25
-30;Hato Mayor;8;1;12/4/2020;Boletin #25;0;;25
-31;San Jose De Ocoa;1;1;12/4/2020;Boletin #25;0;;25
-32;Santo Domingo;546;29;12/4/2020;Boletin #25;13;;25
-1;Distrito Nacional;959;22;13/4/2020;Boletin #26;86;;26
-2;Azua;15;1;13/4/2020;Boletin #26;0;;26
-3;Bahoruco;1;0;13/4/2020;Boletin #26;0;;26
-4;Barahona;15;0;13/4/2020;Boletin #26;0;;26
-5;Dajabon;1;0;13/4/2020;Boletin #26;0;;26
-6;Duarte;315;61;13/4/2020;Boletin #26;18;;26
-7;Elias Pina;0;0;13/4/2020;Boletin #26;0;;26
-8;El Seibo;3;0;13/4/2020;Boletin #26;0;;26
-9;Espaillat;82;3;13/4/2020;Boletin #26;0;;26
-10;Independecia;1;0;13/4/2020;Boletin #26;0;;26
-11;La Altagracia;70;1;13/4/2020;Boletin #26;3;;26
-12;La Romana;62;1;13/4/2020;Boletin #26;2;;26
-13;La Vega;209;6;13/4/2020;Boletin #26;2;;26
-14;Maria Trinidad Sanchez;39;1;13/4/2020;Boletin #26;1;;26
-15;Monte Cristi;9;0;13/4/2020;Boletin #26;0;;26
-16;Pedernales;3;0;13/4/2020;Boletin #26;0;;26
-17;Peravia;25;1;13/4/2020;Boletin #26;0;;26
-18;Puerto Plata;93;8;13/4/2020;Boletin #26;3;;26
-19;Hermanas Mirabal;58;9;13/4/2020;Boletin #26;2;;26
-20;Samana;15;1;13/4/2020;Boletin #26;5;;26
-21;San Cristobal;66;2;13/4/2020;Boletin #26;2;;26
-22;San Juan;20;3;13/4/2020;Boletin #26;1;;26
-23;San Pedro de Macoris;38;7;13/4/2020;Boletin #26;4;;26
-24;Sanchez Ramirez;58;5;13/4/2020;Boletin #26;0;;26
-25;Santiago;439;14;13/4/2020;Boletin #26;17;;26
-26;Santiago Rodriguez;8;0;13/4/2020;Boletin #26;0;;26
-27;Valverde;18;0;13/4/2020;Boletin #26;1;;26
-28;Monsenor Nouel;86;3;13/4/2020;Boletin #26;2;;26
-29;Monte Plata;5;2;13/4/2020;Boletin #26;0;;26
-30;Hato Mayor;8;1;13/4/2020;Boletin #26;0;;26
-31;San Jose De Ocoa;1;1;13/4/2020;Boletin #26;0;;26
-32;Santo Domingo;564;30;13/4/2020;Boletin #26;13;;26
-1;Distrito Nacional;1003;22;14/4/2020;Boletin #27;110;;27
-2;Azua;20;1;14/4/2020;Boletin #27;1;;27
-3;Bahoruco;1;0;14/4/2020;Boletin #27;1;;27
-4;Barahona;15;0;14/4/2020;Boletin #27;0;;27
-5;Dajabon;1;0;14/4/2020;Boletin #27;0;;27
-6;Duarte;350;63;14/4/2020;Boletin #27;21;;27
-7;Elias Pina;0;0;14/4/2020;Boletin #27;0;;27
-8;El Seibo;3;0;14/4/2020;Boletin #27;0;;27
-9;Espaillat;83;4;14/4/2020;Boletin #27;0;;27
-10;Independecia;1;0;14/4/2020;Boletin #27;0;;27
-11;La Altagracia;82;1;14/4/2020;Boletin #27;3;;27
-12;La Romana;73;1;14/4/2020;Boletin #27;2;;27
-13;La Vega;222;6;14/4/2020;Boletin #27;5;;27
-14;Maria Trinidad Sanchez;48;1;14/4/2020;Boletin #27;1;;27
-15;Monte Cristi;11;0;14/4/2020;Boletin #27;0;;27
-16;Pedernales;3;0;14/4/2020;Boletin #27;0;;27
-17;Peravia;26;1;14/4/2020;Boletin #27;0;;27
-18;Puerto Plata;102;8;14/4/2020;Boletin #27;3;;27
-19;Hermanas Mirabal;83;9;14/4/2020;Boletin #27;2;;27
-20;Samana;15;1;14/4/2020;Boletin #27;5;;27
-21;San Cristobal;90;2;14/4/2020;Boletin #27;4;;27
-22;San Juan;21;3;14/4/2020;Boletin #27;1;;27
-23;San Pedro de Macoris;49;7;14/4/2020;Boletin #27;4;;27
-24;Sanchez Ramirez;73;5;14/4/2020;Boletin #27;1;;27
-25;Santiago;463;16;14/4/2020;Boletin #27;22;;27
-26;Santiago Rodriguez;14;0;14/4/2020;Boletin #27;0;;27
-27;Valverde;27;0;14/4/2020;Boletin #27;2;;27
-28;Monsenor Nouel;97;3;14/4/2020;Boletin #27;2;;27
-29;Monte Plata;7;2;14/4/2020;Boletin #27;0;;27
-30;Hato Mayor;8;1;14/4/2020;Boletin #27;0;;27
-31;San Jose De Ocoa;2;1;14/4/2020;Boletin #27;0;;27
-32;Santo Domingo;621;31;14/4/2020;Boletin #27;18;;27
-1;Distrito Nacional;1015;25;15/4/2020;Boletin #28;113;;28
-2;Azua;20;1;15/4/2020;Boletin #28;1;;28
-3;Bahoruco;1;0;15/4/2020;Boletin #28;1;;28
-4;Barahona;19;0;15/4/2020;Boletin #28;0;;28
-5;Dajabon;1;0;15/4/2020;Boletin #28;0;;28
-6;Duarte;355;64;15/4/2020;Boletin #28;21;;28
-7;Elias Pina;0;0;15/4/2020;Boletin #28;0;;28
-8;El Seibo;3;0;15/4/2020;Boletin #28;0;;28
-9;Espaillat;105;4;15/4/2020;Boletin #28;0;;28
-10;Independecia;1;0;15/4/2020;Boletin #28;0;;28
-11;La Altagracia;86;1;15/4/2020;Boletin #28;3;;28
-12;La Romana;77;2;15/4/2020;Boletin #28;2;;28
-13;La Vega;261;6;15/4/2020;Boletin #28;7;;28
-14;Maria Trinidad Sanchez;49;1;15/4/2020;Boletin #28;1;;28
-15;Monte Cristi;14;0;15/4/2020;Boletin #28;0;;28
-16;Pedernales;3;0;15/4/2020;Boletin #28;0;;28
-17;Peravia;26;1;15/4/2020;Boletin #28;0;;28
-18;Puerto Plata;118;8;15/4/2020;Boletin #28;3;;28
-19;Hermanas Mirabal;84;9;15/4/2020;Boletin #28;2;;28
-20;Samana;15;1;15/4/2020;Boletin #28;5;;28
-21;San Cristobal;94;2;15/4/2020;Boletin #28;4;;28
-22;San Juan;21;3;15/4/2020;Boletin #28;1;;28
-23;San Pedro de Macoris;49;7;15/4/2020;Boletin #28;4;;28
-24;Sanchez Ramirez;76;5;15/4/2020;Boletin #28;1;;28
-25;Santiago;476;16;15/4/2020;Boletin #28;24;;28
-26;Santiago Rodriguez;14;0;15/4/2020;Boletin #28;0;;28
-27;Valverde;28;1;15/4/2020;Boletin #28;2;;28
-28;Monsenor Nouel;99;3;15/4/2020;Boletin #28;2;;28
-29;Monte Plata;8;2;15/4/2020;Boletin #28;0;;28
-30;Hato Mayor;8;1;15/4/2020;Boletin #28;0;;28
-31;San Jose De Ocoa;2;1;15/4/2020;Boletin #28;0;;28
-32;Santo Domingo;627;32;15/4/2020;Boletin #28;18;;28
-1;Distrito Nacional;1078;26;16/4/2020;Boletin #29;139;;29
-2;Azua;20;1;16/4/2020;Boletin #29;1;;29
-3;Bahoruco;4;0;16/4/2020;Boletin #29;1;;29
-4;Barahona;25;1;16/4/2020;Boletin #29;1;;29
-5;Dajabon;1;0;16/4/2020;Boletin #29;0;;29
-6;Duarte;416;64;16/4/2020;Boletin #29;27;;29
-7;Elias Pina;0;0;16/4/2020;Boletin #29;0;;29
-8;El Seibo;4;0;16/4/2020;Boletin #29;0;;29
-9;Espaillat;118;4;16/4/2020;Boletin #29;1;;29
-10;Independecia;1;0;16/4/2020;Boletin #29;1;;29
-11;La Altagracia;86;1;16/4/2020;Boletin #29;4;;29
-12;La Romana;80;2;16/4/2020;Boletin #29;4;;29
-13;La Vega;280;6;16/4/2020;Boletin #29;8;;29
-14;Maria Trinidad Sanchez;59;1;16/4/2020;Boletin #29;1;;29
-15;Monte Cristi;14;0;16/4/2020;Boletin #29;0;;29
-16;Pedernales;3;0;16/4/2020;Boletin #29;0;;29
-17;Peravia;27;1;16/4/2020;Boletin #29;0;;29
-18;Puerto Plata;125;8;16/4/2020;Boletin #29;3;;29
-19;Hermanas Mirabal;94;9;16/4/2020;Boletin #29;2;;29
-20;Samana;19;1;16/4/2020;Boletin #29;5;;29
-21;San Cristobal;100;3;16/4/2020;Boletin #29;4;;29
-22;San Juan;28;3;16/4/2020;Boletin #29;1;;29
-23;San Pedro de Macoris;51;7;16/4/2020;Boletin #29;4;;29
-24;Sanchez Ramirez;108;5;16/4/2020;Boletin #29;1;;29
-25;Santiago;528;16;16/4/2020;Boletin #29;30;;29
-26;Santiago Rodriguez;14;0;16/4/2020;Boletin #29;0;;29
-27;Valverde;28;1;16/4/2020;Boletin #29;2;;29
-28;Monsenor Nouel;121;3;16/4/2020;Boletin #29;2;;29
-29;Monte Plata;10;2;16/4/2020;Boletin #29;0;;29
-30;Hato Mayor;8;1;16/4/2020;Boletin #29;0;;29
-31;San Jose De Ocoa;3;1;16/4/2020;Boletin #29;0;;29
-32;Santo Domingo;673;33;16/4/2020;Boletin #29;26;;29
-1;Distrito Nacional;1107;28;17/4/2020;Boletin #30;164;;30
-2;Azua;20;1;17/4/2020;Boletin #30;1;;30
-3;Bahoruco;4;0;17/4/2020;Boletin #30;1;;30
-4;Barahona;25;1;17/4/2020;Boletin #30;1;;30
-5;Dajabon;1;0;17/4/2020;Boletin #30;0;;30
-6;Duarte;439;66;17/4/2020;Boletin #30;30;;30
-7;Elias Pina;0;0;17/4/2020;Boletin #30;0;;30
-8;El Seibo;4;0;17/4/2020;Boletin #30;0;;30
-9;Espaillat;122;4;17/4/2020;Boletin #30;1;;30
-10;Independecia;1;0;17/4/2020;Boletin #30;1;;30
-11;La Altagracia;88;1;17/4/2020;Boletin #30;5;;30
-12;La Romana;88;2;17/4/2020;Boletin #30;4;;30
-13;La Vega;308;7;17/4/2020;Boletin #30;9;;30
-14;Maria Trinidad Sanchez;60;2;17/4/2020;Boletin #30;1;;30
-15;Monte Cristi;14;0;17/4/2020;Boletin #30;1;;30
-16;Pedernales;3;0;17/4/2020;Boletin #30;0;;30
-17;Peravia;32;1;17/4/2020;Boletin #30;0;;30
-18;Puerto Plata;128;9;17/4/2020;Boletin #30;3;;30
-19;Hermanas Mirabal;107;9;17/4/2020;Boletin #30;2;;30
-20;Samana;19;1;17/4/2020;Boletin #30;5;;30
-21;San Cristobal;108;3;17/4/2020;Boletin #30;4;;30
-22;San Juan;29;3;17/4/2020;Boletin #30;1;;30
-23;San Pedro de Macoris;51;7;17/4/2020;Boletin #30;5;;30
-24;Sanchez Ramirez;115;5;17/4/2020;Boletin #30;1;;30
-25;Santiago;553;23;17/4/2020;Boletin #30;32;;30
-26;Santiago Rodriguez;14;0;17/4/2020;Boletin #30;0;;30
-27;Valverde;28;1;17/4/2020;Boletin #30;2;;30
-28;Monsenor Nouel;127;3;17/4/2020;Boletin #30;3;;30
-29;Monte Plata;10;3;17/4/2020;Boletin #30;0;;30
-30;Hato Mayor;8;1;17/4/2020;Boletin #30;0;;30
-31;San Jose De Ocoa;3;2;17/4/2020;Boletin #30;0;;30
-32;Santo Domingo;719;34;17/4/2020;Boletin #30;35;;30
-1;Distrito Nacional;1198;30;18/4/2020;Boletin #31;191;;31
-2;Azua;22;1;18/4/2020;Boletin #31;1;;31
-3;Bahoruco;4;0;18/4/2020;Boletin #31;1;;31
-4;Barahona;25;1;18/4/2020;Boletin #31;1;;31
-5;Dajabon;1;0;18/4/2020;Boletin #31;0;;31
-6;Duarte;461;68;18/4/2020;Boletin #31;34;;31
-7;Elias Pina;0;0;18/4/2020;Boletin #31;0;;31
-8;El Seibo;4;0;18/4/2020;Boletin #31;0;;31
-9;Espaillat;137;4;18/4/2020;Boletin #31;1;;31
-10;Independecia;1;0;18/4/2020;Boletin #31;1;;31
-11;La Altagracia;90;1;18/4/2020;Boletin #31;5;;31
-12;La Romana;89;2;18/4/2020;Boletin #31;4;;31
-13;La Vega;330;7;18/4/2020;Boletin #31;11;;31
-14;Maria Trinidad Sanchez;64;2;18/4/2020;Boletin #31;3;;31
-15;Monte Cristi;15;0;18/4/2020;Boletin #31;1;;31
-16;Pedernales;3;0;18/4/2020;Boletin #31;0;;31
-17;Peravia;34;1;18/4/2020;Boletin #31;0;;31
-18;Puerto Plata;143;9;18/4/2020;Boletin #31;4;;31
-19;Hermanas Mirabal;121;9;18/4/2020;Boletin #31;5;;31
-20;Samana;19;1;18/4/2020;Boletin #31;5;;31
-21;San Cristobal;114;3;18/4/2020;Boletin #31;4;;31
-22;San Juan;32;3;18/4/2020;Boletin #31;1;;31
-23;San Pedro de Macoris;53;7;18/4/2020;Boletin #31;6;;31
-24;Sanchez Ramirez;118;5;18/4/2020;Boletin #31;2;;31
-25;Santiago;594;28;18/4/2020;Boletin #31;34;;31
-26;Santiago Rodriguez;16;0;18/4/2020;Boletin #31;0;;31
-27;Valverde;28;1;18/4/2020;Boletin #31;2;;31
-28;Monsenor Nouel;133;3;18/4/2020;Boletin #31;3;;31
-29;Monte Plata;11;3;18/4/2020;Boletin #31;0;;31
-30;Hato Mayor;9;1;18/4/2020;Boletin #31;0;;31
-31;San Jose De Ocoa;4;2;18/4/2020;Boletin #31;0;;31
-32;Santo Domingo;807;34;18/4/2020;Boletin #31;43;;31
-1;Distrito Nacional;1281;32;19/4/2020;Boletin #32;208;;32
-2;Azua;23;1;19/4/2020;Boletin #32;1;;32
-3;Bahoruco;4;0;19/4/2020;Boletin #32;1;;32
-4;Barahona;25;1;19/4/2020;Boletin #32;1;;32
-5;Dajabon;1;0;19/4/2020;Boletin #32;0;;32
-6;Duarte;486;68;19/4/2020;Boletin #32;38;;32
-7;Elias Pina;0;0;19/4/2020;Boletin #32;0;;32
-8;El Seibo;4;0;19/4/2020;Boletin #32;0;;32
-9;Espaillat;138;4;19/4/2020;Boletin #32;1;;32
-10;Independecia;1;0;19/4/2020;Boletin #32;1;;32
-11;La Altagracia;93;1;19/4/2020;Boletin #32;5;;32
-12;La Romana;92;2;19/4/2020;Boletin #32;4;;32
-13;La Vega;351;7;19/4/2020;Boletin #32;15;;32
-14;Maria Trinidad Sanchez;68;3;19/4/2020;Boletin #32;5;;32
-15;Monte Cristi;16;0;19/4/2020;Boletin #32;1;;32
-16;Pedernales;3;0;19/4/2020;Boletin #32;0;;32
-17;Peravia;35;1;19/4/2020;Boletin #32;0;;32
-18;Puerto Plata;157;9;19/4/2020;Boletin #32;8;;32
-19;Hermanas Mirabal;121;9;19/4/2020;Boletin #32;5;;32
-20;Samana;19;1;19/4/2020;Boletin #32;5;;32
-21;San Cristobal;115;3;19/4/2020;Boletin #32;4;;32
-22;San Juan;38;3;19/4/2020;Boletin #32;1;;32
-23;San Pedro de Macoris;54;7;19/4/2020;Boletin #32;7;;32
-24;Sanchez Ramirez;122;5;19/4/2020;Boletin #32;2;;32
-25;Santiago;635;33;19/4/2020;Boletin #32;45;;32
-26;Santiago Rodriguez;17;0;19/4/2020;Boletin #32;0;;32
-27;Valverde;28;1;19/4/2020;Boletin #32;2;;32
-28;Monsenor Nouel;142;3;19/4/2020;Boletin #32;10;;32
-29;Monte Plata;11;3;19/4/2020;Boletin #32;0;;32
-30;Hato Mayor;9;1;19/4/2020;Boletin #32;0;;32
-31;San Jose De Ocoa;4;2;19/4/2020;Boletin #32;0;;32
-32;Santo Domingo;871;35;19/4/2020;Boletin #32;46;;32
-1;Distrito Nacional;1295;32;20/4/2020;Boletin #33;231;;33
-2;Azua;23;1;20/4/2020;Boletin #33;1;;33
-3;Bahoruco;4;0;20/4/2020;Boletin #33;1;;33
-4;Barahona;33;1;20/4/2020;Boletin #33;4;;33
-5;Dajabon;1;0;20/4/2020;Boletin #33;0;;33
-6;Duarte;486;68;20/4/2020;Boletin #33;41;;33
-7;Elias Pina;0;0;20/4/2020;Boletin #33;0;;33
-8;El Seibo;4;0;20/4/2020;Boletin #33;0;;33
-9;Espaillat;128;5;20/4/2020;Boletin #33;1;;33
-10;Independecia;1;0;20/4/2020;Boletin #33;1;;33
-11;La Altagracia;93;1;20/4/2020;Boletin #33;9;;33
-12;La Romana;92;2;20/4/2020;Boletin #33;4;;33
-13;La Vega;361;7;20/4/2020;Boletin #33;15;;33
-14;Maria Trinidad Sanchez;69;3;20/4/2020;Boletin #33;5;;33
-15;Monte Cristi;16;0;20/4/2020;Boletin #33;1;;33
-16;Pedernales;3;0;20/4/2020;Boletin #33;0;;33
-17;Peravia;35;1;20/4/2020;Boletin #33;0;;33
-18;Puerto Plata;166;9;20/4/2020;Boletin #33;10;;33
-19;Hermanas Mirabal;125;11;20/4/2020;Boletin #33;5;;33
-20;Samana;19;1;20/4/2020;Boletin #33;5;;33
-21;San Cristobal;117;3;20/4/2020;Boletin #33;4;;33
-22;San Juan;38;3;20/4/2020;Boletin #33;1;;33
-23;San Pedro de Macoris;54;7;20/4/2020;Boletin #33;8;;33
-24;Sanchez Ramirez;127;5;20/4/2020;Boletin #33;2;;33
-25;Santiago;638;38;20/4/2020;Boletin #33;47;;33
-26;Santiago Rodriguez;17;1;20/4/2020;Boletin #33;0;;33
-27;Valverde;32;1;20/4/2020;Boletin #33;3;;33
-28;Monsenor Nouel;153;3;20/4/2020;Boletin #33;11;;33
-29;Monte Plata;11;3;20/4/2020;Boletin #33;0;;33
-30;Hato Mayor;9;1;20/4/2020;Boletin #33;0;;33
-31;San Jose De Ocoa;4;2;20/4/2020;Boletin #33;0;;33
-32;Santo Domingo;880;36;20/4/2020;Boletin #33;53;;33
-1;Distrito Nacional;1337;34;21/4/2020;Boletin #34;242;;34
-2;Azua;24;1;21/4/2020;Boletin #34;1;;34
-3;Bahoruco;4;0;21/4/2020;Boletin #34;1;;34
-4;Barahona;33;1;21/4/2020;Boletin #34;4;;34
-5;Dajabon;2;0;21/4/2020;Boletin #34;0;;34
-6;Duarte;519;72;21/4/2020;Boletin #34;64;;34
-7;Elias Pina;0;0;21/4/2020;Boletin #34;0;;34
-8;El Seibo;4;0;21/4/2020;Boletin #34;0;;34
-9;Espaillat;162;5;21/4/2020;Boletin #34;20;;34
-10;Independecia;1;0;21/4/2020;Boletin #34;1;;34
-11;La Altagracia;100;1;21/4/2020;Boletin #34;18;;34
-12;La Romana;95;2;21/4/2020;Boletin #34;6;;34
-13;La Vega;387;7;21/4/2020;Boletin #34;30;;34
-14;Maria Trinidad Sanchez;74;3;21/4/2020;Boletin #34;5;;34
-15;Monte Cristi;15;0;21/4/2020;Boletin #34;1;;34
-16;Pedernales;3;0;21/4/2020;Boletin #34;0;;34
-17;Peravia;36;1;21/4/2020;Boletin #34;0;;34
-18;Puerto Plata;174;11;21/4/2020;Boletin #34;10;;34
-19;Hermanas Mirabal;134;11;21/4/2020;Boletin #34;14;;34
-20;Samana;21;1;21/4/2020;Boletin #34;8;;34
-21;San Cristobal;126;3;21/4/2020;Boletin #34;4;;34
-22;San Juan;38;3;21/4/2020;Boletin #34;1;;34
-23;San Pedro de Macoris;54;7;21/4/2020;Boletin #34;8;;34
-24;Sanchez Ramirez;133;6;21/4/2020;Boletin #34;2;;34
-25;Santiago;670;41;21/4/2020;Boletin #34;57;;34
-26;Santiago Rodriguez;17;1;21/4/2020;Boletin #34;0;;34
-27;Valverde;32;2;21/4/2020;Boletin #34;3;;34
-28;Monsenor Nouel;159;3;21/4/2020;Boletin #34;11;;34
-29;Monte Plata;11;3;21/4/2020;Boletin #34;0;;34
-30;Hato Mayor;9;1;21/4/2020;Boletin #34;0;;34
-31;San Jose De Ocoa;4;2;21/4/2020;Boletin #34;0;;34
-32;Santo Domingo;922;38;21/4/2020;Boletin #34;70;;34
+﻿#Provincia;Provincia;#De Casos;Defunciones;Date;Boletines;Recuperados;Dia
+1;Distrito Nacional;14;0;18/3/2020;Boletin #1;0;1
+2;Azua;0;0;18/3/2020;Boletin #1;0;1
+3;Bahoruco;0;0;18/3/2020;Boletin #1;0;1
+4;Barahona;0;0;18/3/2020;Boletin #1;0;1
+5;Dajabon;0;0;18/3/2020;Boletin #1;0;1
+6;Duarte;2;1;18/3/2020;Boletin #1;0;1
+7;Elias Pina;0;0;18/3/2020;Boletin #1;0;1
+8;El Seibo;0;0;18/3/2020;Boletin #1;0;1
+9;Espaillat;0;0;18/3/2020;Boletin #1;0;1
+10;Independecia;0;0;18/3/2020;Boletin #1;0;1
+11;La Altagracia;2;0;18/3/2020;Boletin #1;0;1
+12;La Romana;0;0;18/3/2020;Boletin #1;0;1
+13;La Vega;0;0;18/3/2020;Boletin #1;0;1
+14;Maria Trinidad Sanchez;0;0;18/3/2020;Boletin #1;0;1
+15;Monte Cristi;0;0;18/3/2020;Boletin #1;0;1
+16;Pedernales;0;0;18/3/2020;Boletin #1;0;1
+17;Peravia;0;0;18/3/2020;Boletin #1;0;1
+18;Puerto Plata;3;0;18/3/2020;Boletin #1;0;1
+19;Hermanas Mirabal;2;0;18/3/2020;Boletin #1;0;1
+20;Samana;4;0;18/3/2020;Boletin #1;0;1
+21;San Cristobal;0;0;18/3/2020;Boletin #1;0;1
+22;San Juan;1;0;18/3/2020;Boletin #1;0;1
+23;San Pedro de Macoris;1;1;18/3/2020;Boletin #1;0;1
+24;Sanchez Ramirez;0;0;18/3/2020;Boletin #1;0;1
+25;Santiago;3;0;18/3/2020;Boletin #1;0;1
+26;Santiago Rodriguez;0;0;18/3/2020;Boletin #1;0;1
+27;Valverde;0;0;18/3/2020;Boletin #1;0;1
+28;Monsenor Nouel;0;0;18/3/2020;Boletin #1;0;1
+29;Monte Plata;0;0;18/3/2020;Boletin #1;0;1
+30;Hato Mayor;0;0;18/3/2020;Boletin #1;0;1
+31;San Jose De Ocoa;0;0;18/3/2020;Boletin #1;0;1
+32;Santo Domingo;2;0;18/3/2020;Boletin #1;0;1
+1;Distrito Nacional;51;0;20/3/2020;Boletin #2;0;2
+2;Azua;2;0;20/3/2020;Boletin #2;0;2
+3;Bahoruco;0;0;20/3/2020;Boletin #2;0;2
+4;Barahona;1;0;20/3/2020;Boletin #2;0;2
+5;Dajabon;0;0;20/3/2020;Boletin #2;0;2
+6;Duarte;4;1;20/3/2020;Boletin #2;0;2
+7;Elias Pina;0;0;20/3/2020;Boletin #2;0;2
+8;El Seibo;0;0;20/3/2020;Boletin #2;0;2
+9;Espaillat;1;0;20/3/2020;Boletin #2;0;2
+10;Independecia;0;0;20/3/2020;Boletin #2;0;2
+11;La Altagracia;7;0;20/3/2020;Boletin #2;0;2
+12;La Romana;0;0;20/3/2020;Boletin #2;0;2
+13;La Vega;4;0;20/3/2020;Boletin #2;0;2
+14;Maria Trinidad Sanchez;2;0;20/3/2020;Boletin #2;0;2
+15;Monte Cristi;0;0;20/3/2020;Boletin #2;0;2
+16;Pedernales;0;0;20/3/2020;Boletin #2;0;2
+17;Peravia;0;0;20/3/2020;Boletin #2;0;2
+18;Puerto Plata;3;0;20/3/2020;Boletin #2;0;2
+19;Hermanas Mirabal;2;0;20/3/2020;Boletin #2;0;2
+20;Samana;4;0;20/3/2020;Boletin #2;0;2
+21;San Cristobal;1;0;20/3/2020;Boletin #2;0;2
+22;San Juan;1;1;20/3/2020;Boletin #2;0;2
+23;San Pedro de Macoris;4;1;20/3/2020;Boletin #2;0;2
+24;Sanchez Ramirez;0;0;20/3/2020;Boletin #2;0;2
+25;Santiago;12;0;20/3/2020;Boletin #2;0;2
+26;Santiago Rodriguez;0;0;20/3/2020;Boletin #2;0;2
+27;Valverde;1;0;20/3/2020;Boletin #2;0;2
+28;Monsenor Nouel;1;0;20/3/2020;Boletin #2;0;2
+29;Monte Plata;0;0;20/3/2020;Boletin #2;0;2
+30;Hato Mayor;0;0;20/3/2020;Boletin #2;0;2
+31;San Jose De Ocoa;0;0;20/3/2020;Boletin #2;0;2
+32;Santo Domingo;10;0;20/3/2020;Boletin #2;0;2
+1;Distrito Nacional;88;0;21/3/2020;Boletin #3;0;3
+2;Azua;2;0;21/3/2020;Boletin #3;0;3
+3;Bahoruco;0;0;21/3/2020;Boletin #3;0;3
+4;Barahona;1;0;21/3/2020;Boletin #3;0;3
+5;Dajabon;0;0;21/3/2020;Boletin #3;0;3
+6;Duarte;8;1;21/3/2020;Boletin #3;0;3
+7;Elias Pina;0;0;21/3/2020;Boletin #3;0;3
+8;El Seibo;0;0;21/3/2020;Boletin #3;0;3
+9;Espaillat;1;0;21/3/2020;Boletin #3;0;3
+10;Independecia;0;0;21/3/2020;Boletin #3;0;3
+11;La Altagracia;7;0;21/3/2020;Boletin #3;0;3
+12;La Romana;3;0;21/3/2020;Boletin #3;0;3
+13;La Vega;7;0;21/3/2020;Boletin #3;0;3
+14;Maria Trinidad Sanchez;2;0;21/3/2020;Boletin #3;0;3
+15;Monte Cristi;0;0;21/3/2020;Boletin #3;0;3
+16;Pedernales;0;0;21/3/2020;Boletin #3;0;3
+17;Peravia;0;0;21/3/2020;Boletin #3;0;3
+18;Puerto Plata;3;0;21/3/2020;Boletin #3;0;3
+19;Hermanas Mirabal;2;0;21/3/2020;Boletin #3;0;3
+20;Samana;4;0;21/3/2020;Boletin #3;0;3
+21;San Cristobal;1;0;21/3/2020;Boletin #3;0;3
+22;San Juan;2;1;21/3/2020;Boletin #3;0;3
+23;San Pedro de Macoris;6;1;21/3/2020;Boletin #3;0;3
+24;Sanchez Ramirez;1;0;21/3/2020;Boletin #3;0;3
+25;Santiago;29;0;21/3/2020;Boletin #3;0;3
+26;Santiago Rodriguez;0;0;21/3/2020;Boletin #3;0;3
+27;Valverde;1;0;21/3/2020;Boletin #3;0;3
+28;Monsenor Nouel;2;0;21/3/2020;Boletin #3;0;3
+29;Monte Plata;0;0;21/3/2020;Boletin #3;0;3
+30;Hato Mayor;0;0;21/3/2020;Boletin #3;0;3
+31;San Jose De Ocoa;0;0;21/3/2020;Boletin #3;0;3
+32;Santo Domingo;31;0;21/3/2020;Boletin #3;0;3
+1;Distrito Nacional;108;0;22/3/2020;Boletin #4;0;4
+2;Azua;2;0;22/3/2020;Boletin #4;0;4
+3;Bahoruco;0;0;22/3/2020;Boletin #4;0;4
+4;Barahona;1;0;22/3/2020;Boletin #4;0;4
+5;Dajabon;0;0;22/3/2020;Boletin #4;0;4
+6;Duarte;17;1;22/3/2020;Boletin #4;0;4
+7;Elias Pina;0;0;22/3/2020;Boletin #4;0;4
+8;El Seibo;0;0;22/3/2020;Boletin #4;0;4
+9;Espaillat;1;0;22/3/2020;Boletin #4;0;4
+10;Independecia;0;0;22/3/2020;Boletin #4;0;4
+11;La Altagracia;7;0;22/3/2020;Boletin #4;0;4
+12;La Romana;6;0;22/3/2020;Boletin #4;0;4
+13;La Vega;7;0;22/3/2020;Boletin #4;0;4
+14;Maria Trinidad Sanchez;2;0;22/3/2020;Boletin #4;0;4
+15;Monte Cristi;0;0;22/3/2020;Boletin #4;0;4
+16;Pedernales;0;0;22/3/2020;Boletin #4;0;4
+17;Peravia;0;0;22/3/2020;Boletin #4;0;4
+18;Puerto Plata;3;0;22/3/2020;Boletin #4;0;4
+19;Hermanas Mirabal;3;0;22/3/2020;Boletin #4;0;4
+20;Samana;4;0;22/3/2020;Boletin #4;0;4
+21;San Cristobal;1;0;22/3/2020;Boletin #4;0;4
+22;San Juan;2;1;22/3/2020;Boletin #4;0;4
+23;San Pedro de Macoris;7;1;22/3/2020;Boletin #4;0;4
+24;Sanchez Ramirez;1;0;22/3/2020;Boletin #4;0;4
+25;Santiago;30;0;22/3/2020;Boletin #4;0;4
+26;Santiago Rodriguez;0;0;22/3/2020;Boletin #4;0;4
+27;Valverde;1;0;22/3/2020;Boletin #4;0;4
+28;Monsenor Nouel;3;0;22/3/2020;Boletin #4;0;4
+29;Monte Plata;0;0;22/3/2020;Boletin #4;0;4
+30;Hato Mayor;0;0;22/3/2020;Boletin #4;0;4
+31;San Jose De Ocoa;0;0;22/3/2020;Boletin #4;0;4
+32;Santo Domingo;39;0;22/3/2020;Boletin #4;0;4
+1;Distrito Nacional;137;0;23/3/2020;Boletin #5;0;5
+2;Azua;1;0;23/3/2020;Boletin #5;0;5
+3;Bahoruco;0;0;23/3/2020;Boletin #5;0;5
+4;Barahona;1;0;23/3/2020;Boletin #5;0;5
+5;Dajabon;0;0;23/3/2020;Boletin #5;0;5
+6;Duarte;29;4;23/3/2020;Boletin #5;0;5
+7;Elias Pina;0;0;23/3/2020;Boletin #5;0;5
+8;El Seibo;0;0;23/3/2020;Boletin #5;0;5
+9;Espaillat;2;0;23/3/2020;Boletin #5;0;5
+10;Independecia;0;0;23/3/2020;Boletin #5;0;5
+11;La Altagracia;11;0;23/3/2020;Boletin #5;0;5
+12;La Romana;5;0;23/3/2020;Boletin #5;0;5
+13;La Vega;8;0;23/3/2020;Boletin #5;0;5
+14;Maria Trinidad Sanchez;3;0;23/3/2020;Boletin #5;0;5
+15;Monte Cristi;0;0;23/3/2020;Boletin #5;0;5
+16;Pedernales;0;0;23/3/2020;Boletin #5;0;5
+17;Peravia;0;0;23/3/2020;Boletin #5;0;5
+18;Puerto Plata;5;0;23/3/2020;Boletin #5;0;5
+19;Hermanas Mirabal;3;0;23/3/2020;Boletin #5;0;5
+20;Samana;5;0;23/3/2020;Boletin #5;0;5
+21;San Cristobal;1;0;23/3/2020;Boletin #5;0;5
+22;San Juan;2;1;23/3/2020;Boletin #5;0;5
+23;San Pedro de Macoris;10;1;23/3/2020;Boletin #5;0;5
+24;Sanchez Ramirez;1;0;23/3/2020;Boletin #5;0;5
+25;Santiago;44;0;23/3/2020;Boletin #5;0;5
+26;Santiago Rodriguez;0;0;23/3/2020;Boletin #5;0;5
+27;Valverde;1;0;23/3/2020;Boletin #5;0;5
+28;Monsenor Nouel;3;0;23/3/2020;Boletin #5;0;5
+29;Monte Plata;0;0;23/3/2020;Boletin #5;0;5
+30;Hato Mayor;0;0;23/3/2020;Boletin #5;0;5
+31;San Jose De Ocoa;0;0;23/3/2020;Boletin #5;0;5
+32;Santo Domingo;40;0;23/3/2020;Boletin #5;0;5
+1;Distrito Nacional;178;1;24/3/2020;Boletin #6;0;6
+2;Azua;1;0;24/3/2020;Boletin #6;0;6
+3;Bahoruco;0;0;24/3/2020;Boletin #6;0;6
+4;Barahona;2;0;24/3/2020;Boletin #6;0;6
+5;Dajabon;0;0;24/3/2020;Boletin #6;0;6
+6;Duarte;29;4;24/3/2020;Boletin #6;0;6
+7;Elias Pina;0;0;24/3/2020;Boletin #6;0;6
+8;El Seibo;0;0;24/3/2020;Boletin #6;0;6
+9;Espaillat;5;0;24/3/2020;Boletin #6;0;6
+10;Independecia;1;0;24/3/2020;Boletin #6;0;6
+11;La Altagracia;12;0;24/3/2020;Boletin #6;0;6
+12;La Romana;5;0;24/3/2020;Boletin #6;0;6
+13;La Vega;8;0;24/3/2020;Boletin #6;0;6
+14;Maria Trinidad Sanchez;3;0;24/3/2020;Boletin #6;0;6
+15;Monte Cristi;0;0;24/3/2020;Boletin #6;0;6
+16;Pedernales;0;0;24/3/2020;Boletin #6;0;6
+17;Peravia;0;0;24/3/2020;Boletin #6;0;6
+18;Puerto Plata;5;0;24/3/2020;Boletin #6;0;6
+19;Hermanas Mirabal;3;0;24/3/2020;Boletin #6;0;6
+20;Samana;7;1;24/3/2020;Boletin #6;0;6
+21;San Cristobal;4;0;24/3/2020;Boletin #6;0;6
+22;San Juan;2;1;24/3/2020;Boletin #6;0;6
+23;San Pedro de Macoris;10;1;24/3/2020;Boletin #6;0;6
+24;Sanchez Ramirez;6;0;24/3/2020;Boletin #6;0;6
+25;Santiago;53;2;24/3/2020;Boletin #6;0;6
+26;Santiago Rodriguez;0;0;24/3/2020;Boletin #6;0;6
+27;Valverde;1;0;24/3/2020;Boletin #6;0;6
+28;Monsenor Nouel;3;0;24/3/2020;Boletin #6;0;6
+29;Monte Plata;0;0;24/3/2020;Boletin #6;0;6
+30;Hato Mayor;2;0;24/3/2020;Boletin #6;0;6
+31;San Jose De Ocoa;0;0;24/3/2020;Boletin #6;0;6
+32;Santo Domingo;52;0;24/3/2020;Boletin #6;0;6
+1;Distrito Nacional;235;1;25/3/2020;Boletin #7;0;7
+2;Azua;4;0;25/3/2020;Boletin #7;0;7
+3;Bahoruco;0;0;25/3/2020;Boletin #7;0;7
+4;Barahona;2;0;25/3/2020;Boletin #7;0;7
+5;Dajabon;0;0;25/3/2020;Boletin #7;0;7
+6;Duarte;43;4;25/3/2020;Boletin #7;0;7
+7;Elias Pina;0;0;25/3/2020;Boletin #7;0;7
+8;El Seibo;0;0;25/3/2020;Boletin #7;0;7
+9;Espaillat;10;0;25/3/2020;Boletin #7;0;7
+10;Independecia;1;0;25/3/2020;Boletin #7;0;7
+11;La Altagracia;11;0;25/3/2020;Boletin #7;0;7
+12;La Romana;6;0;25/3/2020;Boletin #7;0;7
+13;La Vega;11;0;25/3/2020;Boletin #7;0;7
+14;Maria Trinidad Sanchez;4;0;25/3/2020;Boletin #7;0;7
+15;Monte Cristi;0;0;25/3/2020;Boletin #7;0;7
+16;Pedernales;0;0;25/3/2020;Boletin #7;0;7
+17;Peravia;0;0;25/3/2020;Boletin #7;0;7
+18;Puerto Plata;7;0;25/3/2020;Boletin #7;0;7
+19;Hermanas Mirabal;3;0;25/3/2020;Boletin #7;0;7
+20;Samana;7;1;25/3/2020;Boletin #7;0;7
+21;San Cristobal;5;0;25/3/2020;Boletin #7;0;7
+22;San Juan;2;1;25/3/2020;Boletin #7;0;7
+23;San Pedro de Macoris;12;1;25/3/2020;Boletin #7;0;7
+24;Sanchez Ramirez;6;0;25/3/2020;Boletin #7;0;7
+25;Santiago;57;2;25/3/2020;Boletin #7;0;7
+26;Santiago Rodriguez;0;0;25/3/2020;Boletin #7;0;7
+27;Valverde;2;0;25/3/2020;Boletin #7;0;7
+28;Monsenor Nouel;3;0;25/3/2020;Boletin #7;0;7
+29;Monte Plata;0;0;25/3/2020;Boletin #7;0;7
+30;Hato Mayor;2;0;25/3/2020;Boletin #7;0;7
+31;San Jose De Ocoa;0;0;25/3/2020;Boletin #7;0;7
+32;Santo Domingo;55;0;25/3/2020;Boletin #7;0;7
+1;Distrito Nacional;273;2;26/3/2020;Boletin #8;0;8
+2;Azua;4;0;26/3/2020;Boletin #8;0;8
+3;Bahoruco;0;0;26/3/2020;Boletin #8;0;8
+4;Barahona;4;0;26/3/2020;Boletin #8;0;8
+5;Dajabon;0;0;26/3/2020;Boletin #8;0;8
+6;Duarte;59;12;26/3/2020;Boletin #8;0;8
+7;Elias Pina;0;0;26/3/2020;Boletin #8;0;8
+8;El Seibo;0;0;26/3/2020;Boletin #8;0;8
+9;Espaillat;10;0;26/3/2020;Boletin #8;0;8
+10;Independecia;1;0;26/3/2020;Boletin #8;0;8
+11;La Altagracia;11;0;26/3/2020;Boletin #8;0;8
+12;La Romana;8;0;26/3/2020;Boletin #8;0;8
+13;La Vega;16;0;26/3/2020;Boletin #8;0;8
+14;Maria Trinidad Sanchez;4;0;26/3/2020;Boletin #8;0;8
+15;Monte Cristi;0;0;26/3/2020;Boletin #8;0;8
+16;Pedernales;0;0;26/3/2020;Boletin #8;0;8
+17;Peravia;1;0;26/3/2020;Boletin #8;0;8
+18;Puerto Plata;11;0;26/3/2020;Boletin #8;0;8
+19;Hermanas Mirabal;4;0;26/3/2020;Boletin #8;0;8
+20;Samana;8;0;26/3/2020;Boletin #8;0;8
+21;San Cristobal;6;0;26/3/2020;Boletin #8;0;8
+22;San Juan;2;1;26/3/2020;Boletin #8;0;8
+23;San Pedro de Macoris;13;1;26/3/2020;Boletin #8;0;8
+24;Sanchez Ramirez;6;0;26/3/2020;Boletin #8;0;8
+25;Santiago;66;2;26/3/2020;Boletin #8;0;8
+26;Santiago Rodriguez;0;0;26/3/2020;Boletin #8;0;8
+27;Valverde;2;0;26/3/2020;Boletin #8;0;8
+28;Monsenor Nouel;4;1;26/3/2020;Boletin #8;0;8
+29;Monte Plata;0;0;26/3/2020;Boletin #8;0;8
+30;Hato Mayor;2;0;26/3/2020;Boletin #8;0;8
+31;San Jose De Ocoa;0;0;26/3/2020;Boletin #8;0;8
+32;Santo Domingo;66;0;26/3/2020;Boletin #8;0;8
+1;Distrito Nacional;321;4;27/3/2020;Boletin #9;0;9
+2;Azua;5;0;27/3/2020;Boletin #9;0;9
+3;Bahoruco;0;0;27/3/2020;Boletin #9;0;9
+4;Barahona;4;0;27/3/2020;Boletin #9;0;9
+5;Dajabon;0;0;27/3/2020;Boletin #9;0;9
+6;Duarte;65;13;27/3/2020;Boletin #9;0;9
+7;Elias Pina;0;0;27/3/2020;Boletin #9;0;9
+8;El Seibo;0;0;27/3/2020;Boletin #9;0;9
+9;Espaillat;11;0;27/3/2020;Boletin #9;0;9
+10;Independecia;1;0;27/3/2020;Boletin #9;0;9
+11;La Altagracia;17;0;27/3/2020;Boletin #9;0;9
+12;La Romana;13;0;27/3/2020;Boletin #9;0;9
+13;La Vega;33;1;27/3/2020;Boletin #9;0;9
+14;Maria Trinidad Sanchez;4;0;27/3/2020;Boletin #9;0;9
+15;Monte Cristi;0;0;27/3/2020;Boletin #9;0;9
+16;Pedernales;0;0;27/3/2020;Boletin #9;0;9
+17;Peravia;1;0;27/3/2020;Boletin #9;0;9
+18;Puerto Plata;13;0;27/3/2020;Boletin #9;0;9
+19;Hermanas Mirabal;10;0;27/3/2020;Boletin #9;0;9
+20;Samana;8;1;27/3/2020;Boletin #9;0;9
+21;San Cristobal;8;0;27/3/2020;Boletin #9;0;9
+22;San Juan;3;1;27/3/2020;Boletin #9;0;9
+23;San Pedro de Macoris;15;1;27/3/2020;Boletin #9;0;9
+24;Sanchez Ramirez;7;0;27/3/2020;Boletin #9;0;9
+25;Santiago;90;2;27/3/2020;Boletin #9;0;9
+26;Santiago Rodriguez;0;0;27/3/2020;Boletin #9;0;9
+27;Valverde;2;0;27/3/2020;Boletin #9;0;9
+28;Monsenor Nouel;6;1;27/3/2020;Boletin #9;0;9
+29;Monte Plata;1;0;27/3/2020;Boletin #9;0;9
+30;Hato Mayor;2;0;27/3/2020;Boletin #9;0;9
+31;San Jose De Ocoa;0;0;27/3/2020;Boletin #9;0;9
+32;Santo Domingo;79;4;27/3/2020;Boletin #9;0;9
+1;Distrito Nacional;376;5;28/3/2020;Boletin #10;0;10
+2;Azua;6;0;28/3/2020;Boletin #10;0;10
+3;Bahoruco;0;0;28/3/2020;Boletin #10;0;10
+4;Barahona;2;0;28/3/2020;Boletin #10;0;10
+5;Dajabon;0;0;28/3/2020;Boletin #10;0;10
+6;Duarte;83;21;28/3/2020;Boletin #10;0;10
+7;Elias Pina;0;0;28/3/2020;Boletin #10;0;10
+8;El Seibo;0;0;28/3/2020;Boletin #10;0;10
+9;Espaillat;15;0;28/3/2020;Boletin #10;0;10
+10;Independecia;1;0;28/3/2020;Boletin #10;0;10
+11;La Altagracia;21;0;28/3/2020;Boletin #10;0;10
+12;La Romana;15;0;28/3/2020;Boletin #10;0;10
+13;La Vega;48;1;28/3/2020;Boletin #10;0;10
+14;Maria Trinidad Sanchez;4;0;28/3/2020;Boletin #10;0;10
+15;Monte Cristi;1;0;28/3/2020;Boletin #10;0;10
+16;Pedernales;0;0;28/3/2020;Boletin #10;0;10
+17;Peravia;1;0;28/3/2020;Boletin #10;0;10
+18;Puerto Plata;16;0;28/3/2020;Boletin #10;0;10
+19;Hermanas Mirabal;10;0;28/3/2020;Boletin #10;0;10
+20;Samana;9;1;28/3/2020;Boletin #10;0;10
+21;San Cristobal;9;0;28/3/2020;Boletin #10;0;10
+22;San Juan;3;1;28/3/2020;Boletin #10;0;10
+23;San Pedro de Macoris;16;2;28/3/2020;Boletin #10;0;10
+24;Sanchez Ramirez;7;0;28/3/2020;Boletin #10;0;10
+25;Santiago;97;2;28/3/2020;Boletin #10;0;10
+26;Santiago Rodriguez;2;0;28/3/2020;Boletin #10;0;10
+27;Valverde;2;0;28/3/2020;Boletin #10;0;10
+28;Monsenor Nouel;11;1;28/3/2020;Boletin #10;0;10
+29;Monte Plata;1;0;28/3/2020;Boletin #10;0;10
+30;Hato Mayor;2;0;28/3/2020;Boletin #10;0;10
+31;San Jose De Ocoa;0;0;28/3/2020;Boletin #10;0;10
+32;Santo Domingo;101;5;28/3/2020;Boletin #10;0;10
+1;Distrito Nacional;381;5;29/3/2020;Boletin #11;0;11
+2;Azua;7;0;29/3/2020;Boletin #11;0;11
+3;Bahoruco;0;0;29/3/2020;Boletin #11;0;11
+4;Barahona;3;0;29/3/2020;Boletin #11;0;11
+5;Dajabon;0;0;29/3/2020;Boletin #11;0;11
+6;Duarte;90;22;29/3/2020;Boletin #11;0;11
+7;Elias Pina;0;0;29/3/2020;Boletin #11;0;11
+8;El Seibo;0;0;29/3/2020;Boletin #11;0;11
+9;Espaillat;15;0;29/3/2020;Boletin #11;0;11
+10;Independecia;1;0;29/3/2020;Boletin #11;0;11
+11;La Altagracia;29;0;29/3/2020;Boletin #11;0;11
+12;La Romana;21;0;29/3/2020;Boletin #11;0;11
+13;La Vega;48;1;29/3/2020;Boletin #11;0;11
+14;Maria Trinidad Sanchez;4;0;29/3/2020;Boletin #11;0;11
+15;Monte Cristi;1;0;29/3/2020;Boletin #11;0;11
+16;Pedernales;1;0;29/3/2020;Boletin #11;0;11
+17;Peravia;4;0;29/3/2020;Boletin #11;0;11
+18;Puerto Plata;16;0;29/3/2020;Boletin #11;0;11
+19;Hermanas Mirabal;10;0;29/3/2020;Boletin #11;0;11
+20;Samana;9;1;29/3/2020;Boletin #11;0;11
+21;San Cristobal;9;0;29/3/2020;Boletin #11;0;11
+22;San Juan;5;1;29/3/2020;Boletin #11;0;11
+23;San Pedro de Macoris;17;2;29/3/2020;Boletin #11;0;11
+24;Sanchez Ramirez;9;2;29/3/2020;Boletin #11;0;11
+25;Santiago;97;2;29/3/2020;Boletin #11;0;11
+26;Santiago Rodriguez;2;0;29/3/2020;Boletin #11;0;11
+27;Valverde;2;0;29/3/2020;Boletin #11;0;11
+28;Monsenor Nouel;11;1;29/3/2020;Boletin #11;0;11
+29;Monte Plata;1;0;29/3/2020;Boletin #11;0;11
+30;Hato Mayor;2;0;29/3/2020;Boletin #11;0;11
+31;San Jose De Ocoa;0;0;29/3/2020;Boletin #11;0;11
+32;Santo Domingo;106;5;29/3/2020;Boletin #11;0;11
+1;Distrito Nacional;462;9;30/3/2020;Boletin #12;0;12
+2;Azua;7;0;30/3/2020;Boletin #12;0;12
+3;Bahoruco;0;0;30/3/2020;Boletin #12;0;12
+4;Barahona;3;0;30/3/2020;Boletin #12;0;12
+5;Dajabon;0;0;30/3/2020;Boletin #12;0;12
+6;Duarte;94;22;30/3/2020;Boletin #12;0;12
+7;Elias Pina;0;0;30/3/2020;Boletin #12;0;12
+8;El Seibo;0;0;30/3/2020;Boletin #12;0;12
+9;Espaillat;22;0;30/3/2020;Boletin #12;0;12
+10;Independecia;1;0;30/3/2020;Boletin #12;0;12
+11;La Altagracia;29;0;30/3/2020;Boletin #12;0;12
+12;La Romana;21;0;30/3/2020;Boletin #12;0;12
+13;La Vega;65;2;30/3/2020;Boletin #12;0;12
+14;Maria Trinidad Sanchez;6;1;30/3/2020;Boletin #12;0;12
+15;Monte Cristi;1;0;30/3/2020;Boletin #12;0;12
+16;Pedernales;1;0;30/3/2020;Boletin #12;0;12
+17;Peravia;4;0;30/3/2020;Boletin #12;0;12
+18;Puerto Plata;28;0;30/3/2020;Boletin #12;0;12
+19;Hermanas Mirabal;11;0;30/3/2020;Boletin #12;0;12
+20;Samana;12;1;30/3/2020;Boletin #12;0;12
+21;San Cristobal;13;1;30/3/2020;Boletin #12;0;12
+22;San Juan;5;2;30/3/2020;Boletin #12;0;12
+23;San Pedro de Macoris;18;3;30/3/2020;Boletin #12;0;12
+24;Sanchez Ramirez;10;2;30/3/2020;Boletin #12;0;12
+25;Santiago;122;2;30/3/2020;Boletin #12;0;12
+26;Santiago Rodriguez;2;0;30/3/2020;Boletin #12;0;12
+27;Valverde;4;0;30/3/2020;Boletin #12;0;12
+28;Monsenor Nouel;19;1;30/3/2020;Boletin #12;0;12
+29;Monte Plata;1;0;30/3/2020;Boletin #12;0;12
+30;Hato Mayor;3;0;30/3/2020;Boletin #12;0;12
+31;San Jose De Ocoa;0;0;30/3/2020;Boletin #12;0;12
+32;Santo Domingo;145;5;30/3/2020;Boletin #12;0;12
+1;Distrito Nacional;520;11;31/3/2020;Boletin #13;0;13
+2;Azua;7;0;31/3/2020;Boletin #13;0;13
+3;Bahoruco;0;0;31/3/2020;Boletin #13;0;13
+4;Barahona;7;0;31/3/2020;Boletin #13;0;13
+5;Dajabon;1;0;31/3/2020;Boletin #13;0;13
+6;Duarte;101;23;31/3/2020;Boletin #13;0;13
+7;Elias Pina;0;0;31/3/2020;Boletin #13;0;13
+8;El Seibo;1;1;31/3/2020;Boletin #13;0;13
+9;Espaillat;28;0;31/3/2020;Boletin #13;0;13
+10;Independecia;1;0;31/3/2020;Boletin #13;0;13
+11;La Altagracia;32;0;31/3/2020;Boletin #13;0;13
+12;La Romana;24;0;31/3/2020;Boletin #13;0;13
+13;La Vega;84;2;31/3/2020;Boletin #13;0;13
+14;Maria Trinidad Sanchez;6;1;31/3/2020;Boletin #13;0;13
+15;Monte Cristi;2;0;31/3/2020;Boletin #13;0;13
+16;Pedernales;1;0;31/3/2020;Boletin #13;0;13
+17;Peravia;4;0;31/3/2020;Boletin #13;0;13
+18;Puerto Plata;28;0;31/3/2020;Boletin #13;0;13
+19;Hermanas Mirabal;15;0;31/3/2020;Boletin #13;0;13
+20;Samana;13;1;31/3/2020;Boletin #13;0;13
+21;San Cristobal;21;1;31/3/2020;Boletin #13;0;13
+22;San Juan;7;2;31/3/2020;Boletin #13;0;13
+23;San Pedro de Macoris;20;3;31/3/2020;Boletin #13;0;13
+24;Sanchez Ramirez;13;2;31/3/2020;Boletin #13;0;13
+25;Santiago;138;2;31/3/2020;Boletin #13;0;13
+26;Santiago Rodriguez;2;0;31/3/2020;Boletin #13;0;13
+27;Valverde;8;0;31/3/2020;Boletin #13;0;13
+28;Monsenor Nouel;27;1;31/3/2020;Boletin #13;0;13
+29;Monte Plata;2;1;31/3/2020;Boletin #13;0;13
+30;Hato Mayor;3;0;31/3/2020;Boletin #13;0;13
+31;San Jose De Ocoa;0;0;31/3/2020;Boletin #13;0;13
+32;Santo Domingo;168;6;31/3/2020;Boletin #13;0;13
+1;Distrito Nacional;535;11;1/4/2020;Boletin #14;0;14
+2;Azua;7;0;1/4/2020;Boletin #14;0;14
+3;Bahoruco;0;0;1/4/2020;Boletin #14;0;14
+4;Barahona;11;0;1/4/2020;Boletin #14;0;14
+5;Dajabon;1;0;1/4/2020;Boletin #14;0;14
+6;Duarte;110;24;1/4/2020;Boletin #14;0;14
+7;Elias Pina;0;0;1/4/2020;Boletin #14;0;14
+8;El Seibo;1;0;1/4/2020;Boletin #14;0;14
+9;Espaillat;28;0;1/4/2020;Boletin #14;0;14
+10;Independecia;1;0;1/4/2020;Boletin #14;0;14
+11;La Altagracia;35;0;1/4/2020;Boletin #14;0;14
+12;La Romana;28;1;1/4/2020;Boletin #14;0;14
+13;La Vega;88;2;1/4/2020;Boletin #14;0;14
+14;Maria Trinidad Sanchez;8;1;1/4/2020;Boletin #14;0;14
+15;Monte Cristi;2;0;1/4/2020;Boletin #14;0;14
+16;Pedernales;1;0;1/4/2020;Boletin #14;0;14
+17;Peravia;4;0;1/4/2020;Boletin #14;0;14
+18;Puerto Plata;30;0;1/4/2020;Boletin #14;0;14
+19;Hermanas Mirabal;17;0;1/4/2020;Boletin #14;0;14
+20;Samana;13;1;1/4/2020;Boletin #14;0;14
+21;San Cristobal;21;1;1/4/2020;Boletin #14;0;14
+22;San Juan;7;2;1/4/2020;Boletin #14;0;14
+23;San Pedro de Macoris;23;3;1/4/2020;Boletin #14;0;14
+24;Sanchez Ramirez;17;2;1/4/2020;Boletin #14;0;14
+25;Santiago;159;2;1/4/2020;Boletin #14;0;14
+26;Santiago Rodriguez;2;0;1/4/2020;Boletin #14;0;14
+27;Valverde;8;0;1/4/2020;Boletin #14;0;14
+28;Monsenor Nouel;28;2;1/4/2020;Boletin #14;0;14
+29;Monte Plata;2;1;1/4/2020;Boletin #14;0;14
+30;Hato Mayor;3;0;1/4/2020;Boletin #14;0;14
+31;San Jose De Ocoa;0;0;1/4/2020;Boletin #14;0;14
+32;Santo Domingo;190;7;1/4/2020;Boletin #14;0;14
+1;Distrito Nacional;588;11;2/4/2020;Boletin #15;0;15
+2;Azua;7;0;2/4/2020;Boletin #15;0;15
+3;Bahoruco;1;0;2/4/2020;Boletin #15;0;15
+4;Barahona;11;0;2/4/2020;Boletin #15;0;15
+5;Dajabon;1;0;2/4/2020;Boletin #15;0;15
+6;Duarte;112;24;2/4/2020;Boletin #15;0;15
+7;Elias Pina;0;0;2/4/2020;Boletin #15;0;15
+8;El Seibo;1;0;2/4/2020;Boletin #15;0;15
+9;Espaillat;30;1;2/4/2020;Boletin #15;0;15
+10;Independecia;1;0;2/4/2020;Boletin #15;0;15
+11;La Altagracia;35;1;2/4/2020;Boletin #15;0;15
+12;La Romana;28;1;2/4/2020;Boletin #15;0;15
+13;La Vega;93;3;2/4/2020;Boletin #15;0;15
+14;Maria Trinidad Sanchez;9;1;2/4/2020;Boletin #15;0;15
+15;Monte Cristi;2;0;2/4/2020;Boletin #15;0;15
+16;Pedernales;1;0;2/4/2020;Boletin #15;0;15
+17;Peravia;4;0;2/4/2020;Boletin #15;0;15
+18;Puerto Plata;33;0;2/4/2020;Boletin #15;0;15
+19;Hermanas Mirabal;17;0;2/4/2020;Boletin #15;0;15
+20;Samana;15;1;2/4/2020;Boletin #15;0;15
+21;San Cristobal;22;1;2/4/2020;Boletin #15;0;15
+22;San Juan;8;3;2/4/2020;Boletin #15;0;15
+23;San Pedro de Macoris;23;3;2/4/2020;Boletin #15;0;15
+24;Sanchez Ramirez;20;2;2/4/2020;Boletin #15;0;15
+25;Santiago;176;5;2/4/2020;Boletin #15;0;15
+26;Santiago Rodriguez;5;0;2/4/2020;Boletin #15;0;15
+27;Valverde;8;0;2/4/2020;Boletin #15;0;15
+28;Monsenor Nouel;28;2;2/4/2020;Boletin #15;0;15
+29;Monte Plata;4;1;2/4/2020;Boletin #15;0;15
+30;Hato Mayor;4;0;2/4/2020;Boletin #15;0;15
+31;San Jose De Ocoa;0;0;2/4/2020;Boletin #15;0;15
+32;Santo Domingo;201;8;2/4/2020;Boletin #15;0;15
+1;Distrito Nacional;624;11;3/4/2020;Boletin #16;0;16
+2;Azua;7;0;3/4/2020;Boletin #16;0;16
+3;Bahoruco;1;0;3/4/2020;Boletin #16;0;16
+4;Barahona;11;0;3/4/2020;Boletin #16;0;16
+5;Dajabon;1;0;3/4/2020;Boletin #16;0;16
+6;Duarte;112;24;3/4/2020;Boletin #16;0;16
+7;Elias Pina;0;0;3/4/2020;Boletin #16;0;16
+8;El Seibo;1;0;3/4/2020;Boletin #16;0;16
+9;Espaillat;32;1;3/4/2020;Boletin #16;0;16
+10;Independecia;1;0;3/4/2020;Boletin #16;0;16
+11;La Altagracia;35;1;3/4/2020;Boletin #16;0;16
+12;La Romana;29;1;3/4/2020;Boletin #16;0;16
+13;La Vega;96;4;3/4/2020;Boletin #16;0;16
+14;Maria Trinidad Sanchez;10;1;3/4/2020;Boletin #16;0;16
+15;Monte Cristi;2;0;3/4/2020;Boletin #16;0;16
+16;Pedernales;1;0;3/4/2020;Boletin #16;0;16
+17;Peravia;5;0;3/4/2020;Boletin #16;0;16
+18;Puerto Plata;34;0;3/4/2020;Boletin #16;0;16
+19;Hermanas Mirabal;18;2;3/4/2020;Boletin #16;0;16
+20;Samana;15;1;3/4/2020;Boletin #16;0;16
+21;San Cristobal;24;1;3/4/2020;Boletin #16;0;16
+22;San Juan;8;3;3/4/2020;Boletin #16;0;16
+23;San Pedro de Macoris;23;4;3/4/2020;Boletin #16;0;16
+24;Sanchez Ramirez;20;2;3/4/2020;Boletin #16;0;16
+25;Santiago;193;6;3/4/2020;Boletin #16;0;16
+26;Santiago Rodriguez;5;0;3/4/2020;Boletin #16;0;16
+27;Valverde;10;0;3/4/2020;Boletin #16;0;16
+28;Monsenor Nouel;28;2;3/4/2020;Boletin #16;0;16
+29;Monte Plata;4;1;3/4/2020;Boletin #16;0;16
+30;Hato Mayor;4;0;3/4/2020;Boletin #16;0;16
+31;San Jose De Ocoa;0;0;3/4/2020;Boletin #16;0;16
+32;Santo Domingo;224;12;3/4/2020;Boletin #16;0;16
+1;Distrito Nacional;665;13;4/4/2020;Boletin #17;0;17
+2;Azua;7;0;4/4/2020;Boletin #17;0;17
+3;Bahoruco;1;0;4/4/2020;Boletin #17;0;17
+4;Barahona;12;0;4/4/2020;Boletin #17;0;17
+5;Dajabon;1;0;4/4/2020;Boletin #17;0;17
+6;Duarte;132;25;4/4/2020;Boletin #17;0;17
+7;Elias Pina;0;0;4/4/2020;Boletin #17;0;17
+8;El Seibo;1;0;4/4/2020;Boletin #17;0;17
+9;Espaillat;44;1;4/4/2020;Boletin #17;0;17
+10;Independecia;1;0;4/4/2020;Boletin #17;0;17
+11;La Altagracia;40;1;4/4/2020;Boletin #17;0;17
+12;La Romana;32;1;4/4/2020;Boletin #17;0;17
+13;La Vega;109;5;4/4/2020;Boletin #17;0;17
+14;Maria Trinidad Sanchez;10;1;4/4/2020;Boletin #17;0;17
+15;Monte Cristi;3;0;4/4/2020;Boletin #17;0;17
+16;Pedernales;1;0;4/4/2020;Boletin #17;0;17
+17;Peravia;7;0;4/4/2020;Boletin #17;0;17
+18;Puerto Plata;34;0;4/4/2020;Boletin #17;0;17
+19;Hermanas Mirabal;19;2;4/4/2020;Boletin #17;0;17
+20;Samana;15;1;4/4/2020;Boletin #17;0;17
+21;San Cristobal;32;1;4/4/2020;Boletin #17;0;17
+22;San Juan;11;3;4/4/2020;Boletin #17;0;17
+23;San Pedro de Macoris;24;4;4/4/2020;Boletin #17;0;17
+24;Sanchez Ramirez;27;2;4/4/2020;Boletin #17;0;17
+25;Santiago;194;6;4/4/2020;Boletin #17;0;17
+26;Santiago Rodriguez;18;0;4/4/2020;Boletin #17;0;17
+27;Valverde;10;0;4/4/2020;Boletin #17;0;17
+28;Monsenor Nouel;30;2;4/4/2020;Boletin #17;0;17
+29;Monte Plata;4;1;4/4/2020;Boletin #17;0;17
+30;Hato Mayor;4;0;4/4/2020;Boletin #17;0;17
+31;San Jose De Ocoa;0;0;4/4/2020;Boletin #17;0;17
+32;Santo Domingo;257;13;4/4/2020;Boletin #17;0;17
+1;Distrito Nacional;696;13;5/4/2020;Boletin #18;0;18
+2;Azua;7;0;5/4/2020;Boletin #18;0;18
+3;Bahoruco;1;0;5/4/2020;Boletin #18;0;18
+4;Barahona;12;0;5/4/2020;Boletin #18;0;18
+5;Dajabon;1;0;5/4/2020;Boletin #18;0;18
+6;Duarte;141;26;5/4/2020;Boletin #18;0;18
+7;Elias Pina;0;0;5/4/2020;Boletin #18;0;18
+8;El Seibo;1;0;5/4/2020;Boletin #18;0;18
+9;Espaillat;44;1;5/4/2020;Boletin #18;0;18
+10;Independecia;1;0;5/4/2020;Boletin #18;0;18
+11;La Altagracia;44;1;5/4/2020;Boletin #18;0;18
+12;La Romana;33;1;5/4/2020;Boletin #18;0;18
+13;La Vega;109;5;5/4/2020;Boletin #18;0;18
+14;Maria Trinidad Sanchez;12;1;5/4/2020;Boletin #18;0;18
+15;Monte Cristi;3;0;5/4/2020;Boletin #18;0;18
+16;Pedernales;1;0;5/4/2020;Boletin #18;0;18
+17;Peravia;7;0;5/4/2020;Boletin #18;0;18
+18;Puerto Plata;38;0;5/4/2020;Boletin #18;0;18
+19;Hermanas Mirabal;20;2;5/4/2020;Boletin #18;0;18
+20;Samana;15;1;5/4/2020;Boletin #18;0;18
+21;San Cristobal;32;1;5/4/2020;Boletin #18;0;18
+22;San Juan;12;3;5/4/2020;Boletin #18;0;18
+23;San Pedro de Macoris;24;4;5/4/2020;Boletin #18;0;18
+24;Sanchez Ramirez;29;2;5/4/2020;Boletin #18;0;18
+25;Santiago;204;8;5/4/2020;Boletin #18;0;18
+26;Santiago Rodriguez;18;0;5/4/2020;Boletin #18;0;18
+27;Valverde;10;0;5/4/2020;Boletin #18;0;18
+28;Monsenor Nouel;31;2;5/4/2020;Boletin #18;0;18
+29;Monte Plata;4;1;5/4/2020;Boletin #18;0;18
+30;Hato Mayor;4;0;5/4/2020;Boletin #18;0;18
+31;San Jose De Ocoa;0;0;5/4/2020;Boletin #18;0;18
+32;Santo Domingo;274;14;5/4/2020;Boletin #18;0;18
+1;Distrito Nacional;723;15;6/4/2020;Boletin #19;0;19
+2;Azua;8;0;6/4/2020;Boletin #19;0;19
+3;Bahoruco;1;0;6/4/2020;Boletin #19;0;19
+4;Barahona;12;0;6/4/2020;Boletin #19;0;19
+5;Dajabon;1;0;6/4/2020;Boletin #19;0;19
+6;Duarte;141;33;6/4/2020;Boletin #19;0;19
+7;Elias Pina;0;0;6/4/2020;Boletin #19;0;19
+8;El Seibo;2;0;6/4/2020;Boletin #19;0;19
+9;Espaillat;46;1;6/4/2020;Boletin #19;0;19
+10;Independecia;1;0;6/4/2020;Boletin #19;0;19
+11;La Altagracia;44;1;6/4/2020;Boletin #19;0;19
+12;La Romana;35;1;6/4/2020;Boletin #19;0;19
+13;La Vega;109;6;6/4/2020;Boletin #19;0;19
+14;Maria Trinidad Sanchez;19;1;6/4/2020;Boletin #19;0;19
+15;Monte Cristi;3;0;6/4/2020;Boletin #19;0;19
+16;Pedernales;1;0;6/4/2020;Boletin #19;0;19
+17;Peravia;10;1;6/4/2020;Boletin #19;0;19
+18;Puerto Plata;38;0;6/4/2020;Boletin #19;0;19
+19;Hermanas Mirabal;23;2;6/4/2020;Boletin #19;0;19
+20;Samana;15;1;6/4/2020;Boletin #19;0;19
+21;San Cristobal;34;1;6/4/2020;Boletin #19;0;19
+22;San Juan;13;3;6/4/2020;Boletin #19;0;19
+23;San Pedro de Macoris;26;4;6/4/2020;Boletin #19;0;19
+24;Sanchez Ramirez;29;3;6/4/2020;Boletin #19;0;19
+25;Santiago;245;8;6/4/2020;Boletin #19;0;19
+26;Santiago Rodriguez;5;0;6/4/2020;Boletin #19;0;19
+27;Valverde;11;0;6/4/2020;Boletin #19;0;19
+28;Monsenor Nouel;39;2;6/4/2020;Boletin #19;0;19
+29;Monte Plata;4;1;6/4/2020;Boletin #19;0;19
+30;Hato Mayor;4;0;6/4/2020;Boletin #19;0;19
+31;San Jose De Ocoa;0;0;6/4/2020;Boletin #19;0;19
+32;Santo Domingo;314;14;6/4/2020;Boletin #19;0;19
+1;Distrito Nacional;762;17;7/4/2020;Boletin #20;0;20
+2;Azua;9;0;7/4/2020;Boletin #20;0;20
+3;Bahoruco;1;0;7/4/2020;Boletin #20;0;20
+4;Barahona;12;0;7/4/2020;Boletin #20;0;20
+5;Dajabon;1;0;7/4/2020;Boletin #20;0;20
+6;Duarte;154;38;7/4/2020;Boletin #20;0;20
+7;Elias Pina;0;0;7/4/2020;Boletin #20;0;20
+8;El Seibo;2;0;7/4/2020;Boletin #20;0;20
+9;Espaillat;55;1;7/4/2020;Boletin #20;0;20
+10;Independecia;1;0;7/4/2020;Boletin #20;0;20
+11;La Altagracia;44;1;7/4/2020;Boletin #20;0;20
+12;La Romana;35;1;7/4/2020;Boletin #20;0;20
+13;La Vega;109;6;7/4/2020;Boletin #20;0;20
+14;Maria Trinidad Sanchez;20;1;7/4/2020;Boletin #20;0;20
+15;Monte Cristi;3;0;7/4/2020;Boletin #20;0;20
+16;Pedernales;1;0;7/4/2020;Boletin #20;0;20
+17;Peravia;12;1;7/4/2020;Boletin #20;0;20
+18;Puerto Plata;42;0;7/4/2020;Boletin #20;0;20
+19;Hermanas Mirabal;28;2;7/4/2020;Boletin #20;0;20
+20;Samana;15;1;7/4/2020;Boletin #20;0;20
+21;San Cristobal;40;1;7/4/2020;Boletin #20;0;20
+22;San Juan;13;3;7/4/2020;Boletin #20;0;20
+23;San Pedro de Macoris;26;4;7/4/2020;Boletin #20;0;20
+24;Sanchez Ramirez;34;3;7/4/2020;Boletin #20;0;20
+25;Santiago;274;8;7/4/2020;Boletin #20;0;20
+26;Santiago Rodriguez;5;0;7/4/2020;Boletin #20;0;20
+27;Valverde;11;0;7/4/2020;Boletin #20;0;20
+28;Monsenor Nouel;45;3;7/4/2020;Boletin #20;0;20
+29;Monte Plata;4;1;7/4/2020;Boletin #20;0;20
+30;Hato Mayor;5;0;7/4/2020;Boletin #20;0;20
+31;San Jose De Ocoa;0;0;7/4/2020;Boletin #20;0;20
+32;Santo Domingo;348;16;7/4/2020;Boletin #20;0;20
+1;Distrito Nacional;800;18;8/4/2020;Boletin #21;46;21
+2;Azua;10;1;8/4/2020;Boletin #21;0;21
+3;Bahoruco;1;0;8/4/2020;Boletin #21;0;21
+4;Barahona;12;0;8/4/2020;Boletin #21;0;21
+5;Dajabon;1;0;8/4/2020;Boletin #21;0;21
+6;Duarte;196;40;8/4/2020;Boletin #21;5;21
+7;Elias Pina;0;0;8/4/2020;Boletin #21;0;21
+8;El Seibo;2;0;8/4/2020;Boletin #21;0;21
+9;Espaillat;60;1;8/4/2020;Boletin #21;0;21
+10;Independecia;1;0;8/4/2020;Boletin #21;0;21
+11;La Altagracia;48;1;8/4/2020;Boletin #21;1;21
+12;La Romana;38;1;8/4/2020;Boletin #21;1;21
+13;La Vega;126;6;8/4/2020;Boletin #21;1;21
+14;Maria Trinidad Sanchez;26;1;8/4/2020;Boletin #21;0;21
+15;Monte Cristi;4;0;8/4/2020;Boletin #21;0;21
+16;Pedernales;1;0;8/4/2020;Boletin #21;0;21
+17;Peravia;13;1;8/4/2020;Boletin #21;0;21
+18;Puerto Plata;52;1;8/4/2020;Boletin #21;2;21
+19;Hermanas Mirabal;35;2;8/4/2020;Boletin #21;2;21
+20;Samana;15;1;8/4/2020;Boletin #21;4;21
+21;San Cristobal;45;1;8/4/2020;Boletin #21;2;21
+22;San Juan;14;3;8/4/2020;Boletin #21;0;21
+23;San Pedro de Macoris;26;4;8/4/2020;Boletin #21;2;21
+24;Sanchez Ramirez;42;4;8/4/2020;Boletin #21;0;21
+25;Santiago;309;8;8/4/2020;Boletin #21;6;21
+26;Santiago Rodriguez;7;0;8/4/2020;Boletin #21;0;21
+27;Valverde;11;0;8/4/2020;Boletin #21;1;21
+28;Monsenor Nouel;56;3;8/4/2020;Boletin #21;0;21
+29;Monte Plata;4;2;8/4/2020;Boletin #21;0;21
+30;Hato Mayor;5;0;8/4/2020;Boletin #21;0;21
+31;San Jose De Ocoa;0;0;8/4/2020;Boletin #21;0;21
+32;Santo Domingo;389;19;8/4/2020;Boletin #21;7;21
+1;Distrito Nacional;859;18;9/4/2020;Boletin #22;60;22
+2;Azua;10;1;9/4/2020;Boletin #22;0;22
+3;Bahoruco;1;0;9/4/2020;Boletin #22;0;22
+4;Barahona;15;0;9/4/2020;Boletin #22;0;22
+5;Dajabon;1;0;9/4/2020;Boletin #22;0;22
+6;Duarte;233;42;9/4/2020;Boletin #22;5;22
+7;Elias Pina;0;0;9/4/2020;Boletin #22;0;22
+8;El Seibo;3;0;9/4/2020;Boletin #22;0;22
+9;Espaillat;64;1;9/4/2020;Boletin #22;0;22
+10;Independecia;1;0;9/4/2020;Boletin #22;0;22
+11;La Altagracia;54;1;9/4/2020;Boletin #22;1;22
+12;La Romana;44;1;9/4/2020;Boletin #22;1;22
+13;La Vega;147;6;9/4/2020;Boletin #22;1;22
+14;Maria Trinidad Sanchez;28;1;9/4/2020;Boletin #22;0;22
+15;Monte Cristi;4;0;9/4/2020;Boletin #22;0;22
+16;Pedernales;3;0;9/4/2020;Boletin #22;0;22
+17;Peravia;14;1;9/4/2020;Boletin #22;0;22
+18;Puerto Plata;54;1;9/4/2020;Boletin #22;2;22
+19;Hermanas Mirabal;40;2;9/4/2020;Boletin #22;2;22
+20;Samana;15;1;9/4/2020;Boletin #22;4;22
+21;San Cristobal;47;1;9/4/2020;Boletin #22;2;22
+22;San Juan;14;3;9/4/2020;Boletin #22;1;22
+23;San Pedro de Macoris;32;4;9/4/2020;Boletin #22;2;22
+24;Sanchez Ramirez;48;4;9/4/2020;Boletin #22;0;22
+25;Santiago;339;8;9/4/2020;Boletin #22;7;22
+26;Santiago Rodriguez;7;0;9/4/2020;Boletin #22;0;22
+27;Valverde;16;0;9/4/2020;Boletin #22;1;22
+28;Monsenor Nouel;72;3;9/4/2020;Boletin #22;1;22
+29;Monte Plata;5;2;9/4/2020;Boletin #22;0;22
+30;Hato Mayor;5;1;9/4/2020;Boletin #22;0;22
+31;San Jose De Ocoa;0;0;9/4/2020;Boletin #22;0;22
+32;Santo Domingo;445;24;9/4/2020;Boletin #22;8;22
+1;Distrito Nacional;886;18;10/4/2020;Boletin #23;67;23
+2;Azua;11;1;10/4/2020;Boletin #23;0;23
+3;Bahoruco;1;0;10/4/2020;Boletin #23;0;23
+4;Barahona;15;0;10/4/2020;Boletin #23;0;23
+5;Dajabon;1;0;10/4/2020;Boletin #23;0;23
+6;Duarte;252;44;10/4/2020;Boletin #23;5;23
+7;Elias Pina;0;0;10/4/2020;Boletin #23;0;23
+8;El Seibo;3;0;10/4/2020;Boletin #23;0;23
+9;Espaillat;66;2;10/4/2020;Boletin #23;0;23
+10;Independecia;1;0;10/4/2020;Boletin #23;0;23
+11;La Altagracia;64;1;10/4/2020;Boletin #23;2;23
+12;La Romana;46;1;10/4/2020;Boletin #23;1;23
+13;La Vega;162;6;10/4/2020;Boletin #23;2;23
+14;Maria Trinidad Sanchez;34;1;10/4/2020;Boletin #23;0;23
+15;Monte Cristi;4;0;10/4/2020;Boletin #23;0;23
+16;Pedernales;3;0;10/4/2020;Boletin #23;0;23
+17;Peravia;17;1;10/4/2020;Boletin #23;0;23
+18;Puerto Plata;56;1;10/4/2020;Boletin #23;2;23
+19;Hermanas Mirabal;45;7;10/4/2020;Boletin #23;2;23
+20;Samana;15;1;10/4/2020;Boletin #23;4;23
+21;San Cristobal;50;1;10/4/2020;Boletin #23;2;23
+22;San Juan;14;3;10/4/2020;Boletin #23;1;23
+23;San Pedro de Macoris;35;5;10/4/2020;Boletin #23;2;23
+24;Sanchez Ramirez;50;4;10/4/2020;Boletin #23;0;23
+25;Santiago;350;8;10/4/2020;Boletin #23;7;23
+26;Santiago Rodriguez;7;0;10/4/2020;Boletin #23;0;23
+27;Valverde;17;0;10/4/2020;Boletin #23;1;23
+28;Monsenor Nouel;73;3;10/4/2020;Boletin #23;1;23
+29;Monte Plata;5;2;10/4/2020;Boletin #23;0;23
+30;Hato Mayor;5;1;10/4/2020;Boletin #23;0;23
+31;San Jose De Ocoa;0;0;10/4/2020;Boletin #23;0;23
+32;Santo Domingo;471;24;10/4/2020;Boletin #23;9;23
+1;Distrito Nacional;921;21;11/4/2020;Boletin #24;73;24
+2;Azua;12;1;11/4/2020;Boletin #24;0;24
+3;Bahoruco;1;0;11/4/2020;Boletin #24;0;24
+4;Barahona;15;0;11/4/2020;Boletin #24;0;24
+5;Dajabon;1;0;11/4/2020;Boletin #24;14;24
+6;Duarte;273;55;11/4/2020;Boletin #24;0;24
+7;Elias Pina;0;0;11/4/2020;Boletin #24;0;24
+8;El Seibo;3;0;11/4/2020;Boletin #24;0;24
+9;Espaillat;67;3;11/4/2020;Boletin #24;0;24
+10;Independecia;1;0;11/4/2020;Boletin #24;0;24
+11;La Altagracia;64;1;11/4/2020;Boletin #24;2;24
+12;La Romana;51;1;11/4/2020;Boletin #24;2;24
+13;La Vega;192;6;11/4/2020;Boletin #24;2;24
+14;Maria Trinidad Sanchez;36;1;11/4/2020;Boletin #24;1;24
+15;Monte Cristi;6;0;11/4/2020;Boletin #24;0;24
+16;Pedernales;3;0;11/4/2020;Boletin #24;0;24
+17;Peravia;21;1;11/4/2020;Boletin #24;0;24
+18;Puerto Plata;73;8;11/4/2020;Boletin #24;2;24
+19;Hermanas Mirabal;50;9;11/4/2020;Boletin #24;2;24
+20;Samana;15;1;11/4/2020;Boletin #24;5;24
+21;San Cristobal;61;2;11/4/2020;Boletin #24;2;24
+22;San Juan;20;3;11/4/2020;Boletin #24;1;24
+23;San Pedro de Macoris;35;7;11/4/2020;Boletin #24;3;24
+24;Sanchez Ramirez;55;4;11/4/2020;Boletin #24;0;24
+25;Santiago;363;14;11/4/2020;Boletin #24;10;24
+26;Santiago Rodriguez;8;0;11/4/2020;Boletin #24;0;24
+27;Valverde;17;0;11/4/2020;Boletin #24;1;24
+28;Monsenor Nouel;78;3;11/4/2020;Boletin #24;1;24
+29;Monte Plata;5;2;11/4/2020;Boletin #24;0;24
+30;Hato Mayor;7;1;11/4/2020;Boletin #24;0;24
+31;San Jose De Ocoa;1;1;11/4/2020;Boletin #24;0;24
+32;Santo Domingo;512;28;11/4/2020;Boletin #24;10;24
+1;Distrito Nacional;948;21;12/4/2020;Boletin #25;82;25
+2;Azua;15;1;12/4/2020;Boletin #25;0;25
+3;Bahoruco;1;0;12/4/2020;Boletin #25;0;25
+4;Barahona;15;0;12/4/2020;Boletin #25;0;25
+5;Dajabon;1;0;12/4/2020;Boletin #25;0;25
+6;Duarte;300;57;12/4/2020;Boletin #25;18;25
+7;Elias Pina;0;0;12/4/2020;Boletin #25;0;25
+8;El Seibo;3;0;12/4/2020;Boletin #25;0;25
+9;Espaillat;72;3;12/4/2020;Boletin #25;0;25
+10;Independecia;1;0;12/4/2020;Boletin #25;0;25
+11;La Altagracia;69;1;12/4/2020;Boletin #25;3;25
+12;La Romana;60;1;12/4/2020;Boletin #25;2;25
+13;La Vega;200;6;12/4/2020;Boletin #25;2;25
+14;Maria Trinidad Sanchez;38;1;12/4/2020;Boletin #25;1;25
+15;Monte Cristi;9;0;12/4/2020;Boletin #25;0;25
+16;Pedernales;3;0;12/4/2020;Boletin #25;0;25
+17;Peravia;25;1;12/4/2020;Boletin #25;0;25
+18;Puerto Plata;87;8;12/4/2020;Boletin #25;2;25
+19;Hermanas Mirabal;55;9;12/4/2020;Boletin #25;2;25
+20;Samana;15;1;12/4/2020;Boletin #25;5;25
+21;San Cristobal;66;2;12/4/2020;Boletin #25;2;25
+22;San Juan;20;3;12/4/2020;Boletin #25;1;25
+23;San Pedro de Macoris;38;7;12/4/2020;Boletin #25;4;25
+24;Sanchez Ramirez;58;5;12/4/2020;Boletin #25;0;25
+25;Santiago;403;14;12/4/2020;Boletin #25;13;25
+26;Santiago Rodriguez;8;0;12/4/2020;Boletin #25;0;25
+27;Valverde;18;0;12/4/2020;Boletin #25;1;25
+28;Monsenor Nouel;79;3;12/4/2020;Boletin #25;1;25
+29;Monte Plata;5;2;12/4/2020;Boletin #25;0;25
+30;Hato Mayor;8;1;12/4/2020;Boletin #25;0;25
+31;San Jose De Ocoa;1;1;12/4/2020;Boletin #25;0;25
+32;Santo Domingo;546;29;12/4/2020;Boletin #25;13;25
+1;Distrito Nacional;959;22;13/4/2020;Boletin #26;86;26
+2;Azua;15;1;13/4/2020;Boletin #26;0;26
+3;Bahoruco;1;0;13/4/2020;Boletin #26;0;26
+4;Barahona;15;0;13/4/2020;Boletin #26;0;26
+5;Dajabon;1;0;13/4/2020;Boletin #26;0;26
+6;Duarte;315;61;13/4/2020;Boletin #26;18;26
+7;Elias Pina;0;0;13/4/2020;Boletin #26;0;26
+8;El Seibo;3;0;13/4/2020;Boletin #26;0;26
+9;Espaillat;82;3;13/4/2020;Boletin #26;0;26
+10;Independecia;1;0;13/4/2020;Boletin #26;0;26
+11;La Altagracia;70;1;13/4/2020;Boletin #26;3;26
+12;La Romana;62;1;13/4/2020;Boletin #26;2;26
+13;La Vega;209;6;13/4/2020;Boletin #26;2;26
+14;Maria Trinidad Sanchez;39;1;13/4/2020;Boletin #26;1;26
+15;Monte Cristi;9;0;13/4/2020;Boletin #26;0;26
+16;Pedernales;3;0;13/4/2020;Boletin #26;0;26
+17;Peravia;25;1;13/4/2020;Boletin #26;0;26
+18;Puerto Plata;93;8;13/4/2020;Boletin #26;3;26
+19;Hermanas Mirabal;58;9;13/4/2020;Boletin #26;2;26
+20;Samana;15;1;13/4/2020;Boletin #26;5;26
+21;San Cristobal;66;2;13/4/2020;Boletin #26;2;26
+22;San Juan;20;3;13/4/2020;Boletin #26;1;26
+23;San Pedro de Macoris;38;7;13/4/2020;Boletin #26;4;26
+24;Sanchez Ramirez;58;5;13/4/2020;Boletin #26;0;26
+25;Santiago;439;14;13/4/2020;Boletin #26;17;26
+26;Santiago Rodriguez;8;0;13/4/2020;Boletin #26;0;26
+27;Valverde;18;0;13/4/2020;Boletin #26;1;26
+28;Monsenor Nouel;86;3;13/4/2020;Boletin #26;2;26
+29;Monte Plata;5;2;13/4/2020;Boletin #26;0;26
+30;Hato Mayor;8;1;13/4/2020;Boletin #26;0;26
+31;San Jose De Ocoa;1;1;13/4/2020;Boletin #26;0;26
+32;Santo Domingo;564;30;13/4/2020;Boletin #26;13;26
+1;Distrito Nacional;1003;22;14/4/2020;Boletin #27;110;27
+2;Azua;20;1;14/4/2020;Boletin #27;1;27
+3;Bahoruco;1;0;14/4/2020;Boletin #27;1;27
+4;Barahona;15;0;14/4/2020;Boletin #27;0;27
+5;Dajabon;1;0;14/4/2020;Boletin #27;0;27
+6;Duarte;350;63;14/4/2020;Boletin #27;21;27
+7;Elias Pina;0;0;14/4/2020;Boletin #27;0;27
+8;El Seibo;3;0;14/4/2020;Boletin #27;0;27
+9;Espaillat;83;4;14/4/2020;Boletin #27;0;27
+10;Independecia;1;0;14/4/2020;Boletin #27;0;27
+11;La Altagracia;82;1;14/4/2020;Boletin #27;3;27
+12;La Romana;73;1;14/4/2020;Boletin #27;2;27
+13;La Vega;222;6;14/4/2020;Boletin #27;5;27
+14;Maria Trinidad Sanchez;48;1;14/4/2020;Boletin #27;1;27
+15;Monte Cristi;11;0;14/4/2020;Boletin #27;0;27
+16;Pedernales;3;0;14/4/2020;Boletin #27;0;27
+17;Peravia;26;1;14/4/2020;Boletin #27;0;27
+18;Puerto Plata;102;8;14/4/2020;Boletin #27;3;27
+19;Hermanas Mirabal;83;9;14/4/2020;Boletin #27;2;27
+20;Samana;15;1;14/4/2020;Boletin #27;5;27
+21;San Cristobal;90;2;14/4/2020;Boletin #27;4;27
+22;San Juan;21;3;14/4/2020;Boletin #27;1;27
+23;San Pedro de Macoris;49;7;14/4/2020;Boletin #27;4;27
+24;Sanchez Ramirez;73;5;14/4/2020;Boletin #27;1;27
+25;Santiago;463;16;14/4/2020;Boletin #27;22;27
+26;Santiago Rodriguez;14;0;14/4/2020;Boletin #27;0;27
+27;Valverde;27;0;14/4/2020;Boletin #27;2;27
+28;Monsenor Nouel;97;3;14/4/2020;Boletin #27;2;27
+29;Monte Plata;7;2;14/4/2020;Boletin #27;0;27
+30;Hato Mayor;8;1;14/4/2020;Boletin #27;0;27
+31;San Jose De Ocoa;2;1;14/4/2020;Boletin #27;0;27
+32;Santo Domingo;621;31;14/4/2020;Boletin #27;18;27
+1;Distrito Nacional;1015;25;15/4/2020;Boletin #28;113;28
+2;Azua;20;1;15/4/2020;Boletin #28;1;28
+3;Bahoruco;1;0;15/4/2020;Boletin #28;1;28
+4;Barahona;19;0;15/4/2020;Boletin #28;0;28
+5;Dajabon;1;0;15/4/2020;Boletin #28;0;28
+6;Duarte;355;64;15/4/2020;Boletin #28;21;28
+7;Elias Pina;0;0;15/4/2020;Boletin #28;0;28
+8;El Seibo;3;0;15/4/2020;Boletin #28;0;28
+9;Espaillat;105;4;15/4/2020;Boletin #28;0;28
+10;Independecia;1;0;15/4/2020;Boletin #28;0;28
+11;La Altagracia;86;1;15/4/2020;Boletin #28;3;28
+12;La Romana;77;2;15/4/2020;Boletin #28;2;28
+13;La Vega;261;6;15/4/2020;Boletin #28;7;28
+14;Maria Trinidad Sanchez;49;1;15/4/2020;Boletin #28;1;28
+15;Monte Cristi;14;0;15/4/2020;Boletin #28;0;28
+16;Pedernales;3;0;15/4/2020;Boletin #28;0;28
+17;Peravia;26;1;15/4/2020;Boletin #28;0;28
+18;Puerto Plata;118;8;15/4/2020;Boletin #28;3;28
+19;Hermanas Mirabal;84;9;15/4/2020;Boletin #28;2;28
+20;Samana;15;1;15/4/2020;Boletin #28;5;28
+21;San Cristobal;94;2;15/4/2020;Boletin #28;4;28
+22;San Juan;21;3;15/4/2020;Boletin #28;1;28
+23;San Pedro de Macoris;49;7;15/4/2020;Boletin #28;4;28
+24;Sanchez Ramirez;76;5;15/4/2020;Boletin #28;1;28
+25;Santiago;476;16;15/4/2020;Boletin #28;24;28
+26;Santiago Rodriguez;14;0;15/4/2020;Boletin #28;0;28
+27;Valverde;28;1;15/4/2020;Boletin #28;2;28
+28;Monsenor Nouel;99;3;15/4/2020;Boletin #28;2;28
+29;Monte Plata;8;2;15/4/2020;Boletin #28;0;28
+30;Hato Mayor;8;1;15/4/2020;Boletin #28;0;28
+31;San Jose De Ocoa;2;1;15/4/2020;Boletin #28;0;28
+32;Santo Domingo;627;32;15/4/2020;Boletin #28;18;28
+1;Distrito Nacional;1078;26;16/4/2020;Boletin #29;139;29
+2;Azua;20;1;16/4/2020;Boletin #29;1;29
+3;Bahoruco;4;0;16/4/2020;Boletin #29;1;29
+4;Barahona;25;1;16/4/2020;Boletin #29;1;29
+5;Dajabon;1;0;16/4/2020;Boletin #29;0;29
+6;Duarte;416;64;16/4/2020;Boletin #29;27;29
+7;Elias Pina;0;0;16/4/2020;Boletin #29;0;29
+8;El Seibo;4;0;16/4/2020;Boletin #29;0;29
+9;Espaillat;118;4;16/4/2020;Boletin #29;1;29
+10;Independecia;1;0;16/4/2020;Boletin #29;1;29
+11;La Altagracia;86;1;16/4/2020;Boletin #29;4;29
+12;La Romana;80;2;16/4/2020;Boletin #29;4;29
+13;La Vega;280;6;16/4/2020;Boletin #29;8;29
+14;Maria Trinidad Sanchez;59;1;16/4/2020;Boletin #29;1;29
+15;Monte Cristi;14;0;16/4/2020;Boletin #29;0;29
+16;Pedernales;3;0;16/4/2020;Boletin #29;0;29
+17;Peravia;27;1;16/4/2020;Boletin #29;0;29
+18;Puerto Plata;125;8;16/4/2020;Boletin #29;3;29
+19;Hermanas Mirabal;94;9;16/4/2020;Boletin #29;2;29
+20;Samana;19;1;16/4/2020;Boletin #29;5;29
+21;San Cristobal;100;3;16/4/2020;Boletin #29;4;29
+22;San Juan;28;3;16/4/2020;Boletin #29;1;29
+23;San Pedro de Macoris;51;7;16/4/2020;Boletin #29;4;29
+24;Sanchez Ramirez;108;5;16/4/2020;Boletin #29;1;29
+25;Santiago;528;16;16/4/2020;Boletin #29;30;29
+26;Santiago Rodriguez;14;0;16/4/2020;Boletin #29;0;29
+27;Valverde;28;1;16/4/2020;Boletin #29;2;29
+28;Monsenor Nouel;121;3;16/4/2020;Boletin #29;2;29
+29;Monte Plata;10;2;16/4/2020;Boletin #29;0;29
+30;Hato Mayor;8;1;16/4/2020;Boletin #29;0;29
+31;San Jose De Ocoa;3;1;16/4/2020;Boletin #29;0;29
+32;Santo Domingo;673;33;16/4/2020;Boletin #29;26;29
+1;Distrito Nacional;1107;28;17/4/2020;Boletin #30;164;30
+2;Azua;20;1;17/4/2020;Boletin #30;1;30
+3;Bahoruco;4;0;17/4/2020;Boletin #30;1;30
+4;Barahona;25;1;17/4/2020;Boletin #30;1;30
+5;Dajabon;1;0;17/4/2020;Boletin #30;0;30
+6;Duarte;439;66;17/4/2020;Boletin #30;30;30
+7;Elias Pina;0;0;17/4/2020;Boletin #30;0;30
+8;El Seibo;4;0;17/4/2020;Boletin #30;0;30
+9;Espaillat;122;4;17/4/2020;Boletin #30;1;30
+10;Independecia;1;0;17/4/2020;Boletin #30;1;30
+11;La Altagracia;88;1;17/4/2020;Boletin #30;5;30
+12;La Romana;88;2;17/4/2020;Boletin #30;4;30
+13;La Vega;308;7;17/4/2020;Boletin #30;9;30
+14;Maria Trinidad Sanchez;60;2;17/4/2020;Boletin #30;1;30
+15;Monte Cristi;14;0;17/4/2020;Boletin #30;1;30
+16;Pedernales;3;0;17/4/2020;Boletin #30;0;30
+17;Peravia;32;1;17/4/2020;Boletin #30;0;30
+18;Puerto Plata;128;9;17/4/2020;Boletin #30;3;30
+19;Hermanas Mirabal;107;9;17/4/2020;Boletin #30;2;30
+20;Samana;19;1;17/4/2020;Boletin #30;5;30
+21;San Cristobal;108;3;17/4/2020;Boletin #30;4;30
+22;San Juan;29;3;17/4/2020;Boletin #30;1;30
+23;San Pedro de Macoris;51;7;17/4/2020;Boletin #30;5;30
+24;Sanchez Ramirez;115;5;17/4/2020;Boletin #30;1;30
+25;Santiago;553;23;17/4/2020;Boletin #30;32;30
+26;Santiago Rodriguez;14;0;17/4/2020;Boletin #30;0;30
+27;Valverde;28;1;17/4/2020;Boletin #30;2;30
+28;Monsenor Nouel;127;3;17/4/2020;Boletin #30;3;30
+29;Monte Plata;10;3;17/4/2020;Boletin #30;0;30
+30;Hato Mayor;8;1;17/4/2020;Boletin #30;0;30
+31;San Jose De Ocoa;3;2;17/4/2020;Boletin #30;0;30
+32;Santo Domingo;719;34;17/4/2020;Boletin #30;35;30
+1;Distrito Nacional;1198;30;18/4/2020;Boletin #31;191;31
+2;Azua;22;1;18/4/2020;Boletin #31;1;31
+3;Bahoruco;4;0;18/4/2020;Boletin #31;1;31
+4;Barahona;25;1;18/4/2020;Boletin #31;1;31
+5;Dajabon;1;0;18/4/2020;Boletin #31;0;31
+6;Duarte;461;68;18/4/2020;Boletin #31;34;31
+7;Elias Pina;0;0;18/4/2020;Boletin #31;0;31
+8;El Seibo;4;0;18/4/2020;Boletin #31;0;31
+9;Espaillat;137;4;18/4/2020;Boletin #31;1;31
+10;Independecia;1;0;18/4/2020;Boletin #31;1;31
+11;La Altagracia;90;1;18/4/2020;Boletin #31;5;31
+12;La Romana;89;2;18/4/2020;Boletin #31;4;31
+13;La Vega;330;7;18/4/2020;Boletin #31;11;31
+14;Maria Trinidad Sanchez;64;2;18/4/2020;Boletin #31;3;31
+15;Monte Cristi;15;0;18/4/2020;Boletin #31;1;31
+16;Pedernales;3;0;18/4/2020;Boletin #31;0;31
+17;Peravia;34;1;18/4/2020;Boletin #31;0;31
+18;Puerto Plata;143;9;18/4/2020;Boletin #31;4;31
+19;Hermanas Mirabal;121;9;18/4/2020;Boletin #31;5;31
+20;Samana;19;1;18/4/2020;Boletin #31;5;31
+21;San Cristobal;114;3;18/4/2020;Boletin #31;4;31
+22;San Juan;32;3;18/4/2020;Boletin #31;1;31
+23;San Pedro de Macoris;53;7;18/4/2020;Boletin #31;6;31
+24;Sanchez Ramirez;118;5;18/4/2020;Boletin #31;2;31
+25;Santiago;594;28;18/4/2020;Boletin #31;34;31
+26;Santiago Rodriguez;16;0;18/4/2020;Boletin #31;0;31
+27;Valverde;28;1;18/4/2020;Boletin #31;2;31
+28;Monsenor Nouel;133;3;18/4/2020;Boletin #31;3;31
+29;Monte Plata;11;3;18/4/2020;Boletin #31;0;31
+30;Hato Mayor;9;1;18/4/2020;Boletin #31;0;31
+31;San Jose De Ocoa;4;2;18/4/2020;Boletin #31;0;31
+32;Santo Domingo;807;34;18/4/2020;Boletin #31;43;31
+1;Distrito Nacional;1281;32;19/4/2020;Boletin #32;208;32
+2;Azua;23;1;19/4/2020;Boletin #32;1;32
+3;Bahoruco;4;0;19/4/2020;Boletin #32;1;32
+4;Barahona;25;1;19/4/2020;Boletin #32;1;32
+5;Dajabon;1;0;19/4/2020;Boletin #32;0;32
+6;Duarte;486;68;19/4/2020;Boletin #32;38;32
+7;Elias Pina;0;0;19/4/2020;Boletin #32;0;32
+8;El Seibo;4;0;19/4/2020;Boletin #32;0;32
+9;Espaillat;138;4;19/4/2020;Boletin #32;1;32
+10;Independecia;1;0;19/4/2020;Boletin #32;1;32
+11;La Altagracia;93;1;19/4/2020;Boletin #32;5;32
+12;La Romana;92;2;19/4/2020;Boletin #32;4;32
+13;La Vega;351;7;19/4/2020;Boletin #32;15;32
+14;Maria Trinidad Sanchez;68;3;19/4/2020;Boletin #32;5;32
+15;Monte Cristi;16;0;19/4/2020;Boletin #32;1;32
+16;Pedernales;3;0;19/4/2020;Boletin #32;0;32
+17;Peravia;35;1;19/4/2020;Boletin #32;0;32
+18;Puerto Plata;157;9;19/4/2020;Boletin #32;8;32
+19;Hermanas Mirabal;121;9;19/4/2020;Boletin #32;5;32
+20;Samana;19;1;19/4/2020;Boletin #32;5;32
+21;San Cristobal;115;3;19/4/2020;Boletin #32;4;32
+22;San Juan;38;3;19/4/2020;Boletin #32;1;32
+23;San Pedro de Macoris;54;7;19/4/2020;Boletin #32;7;32
+24;Sanchez Ramirez;122;5;19/4/2020;Boletin #32;2;32
+25;Santiago;635;33;19/4/2020;Boletin #32;45;32
+26;Santiago Rodriguez;17;0;19/4/2020;Boletin #32;0;32
+27;Valverde;28;1;19/4/2020;Boletin #32;2;32
+28;Monsenor Nouel;142;3;19/4/2020;Boletin #32;10;32
+29;Monte Plata;11;3;19/4/2020;Boletin #32;0;32
+30;Hato Mayor;9;1;19/4/2020;Boletin #32;0;32
+31;San Jose De Ocoa;4;2;19/4/2020;Boletin #32;0;32
+32;Santo Domingo;871;35;19/4/2020;Boletin #32;46;32
+1;Distrito Nacional;1295;32;20/4/2020;Boletin #33;231;33
+2;Azua;23;1;20/4/2020;Boletin #33;1;33
+3;Bahoruco;4;0;20/4/2020;Boletin #33;1;33
+4;Barahona;33;1;20/4/2020;Boletin #33;4;33
+5;Dajabon;1;0;20/4/2020;Boletin #33;0;33
+6;Duarte;486;68;20/4/2020;Boletin #33;41;33
+7;Elias Pina;0;0;20/4/2020;Boletin #33;0;33
+8;El Seibo;4;0;20/4/2020;Boletin #33;0;33
+9;Espaillat;128;5;20/4/2020;Boletin #33;1;33
+10;Independecia;1;0;20/4/2020;Boletin #33;1;33
+11;La Altagracia;93;1;20/4/2020;Boletin #33;9;33
+12;La Romana;92;2;20/4/2020;Boletin #33;4;33
+13;La Vega;361;7;20/4/2020;Boletin #33;15;33
+14;Maria Trinidad Sanchez;69;3;20/4/2020;Boletin #33;5;33
+15;Monte Cristi;16;0;20/4/2020;Boletin #33;1;33
+16;Pedernales;3;0;20/4/2020;Boletin #33;0;33
+17;Peravia;35;1;20/4/2020;Boletin #33;0;33
+18;Puerto Plata;166;9;20/4/2020;Boletin #33;10;33
+19;Hermanas Mirabal;125;11;20/4/2020;Boletin #33;5;33
+20;Samana;19;1;20/4/2020;Boletin #33;5;33
+21;San Cristobal;117;3;20/4/2020;Boletin #33;4;33
+22;San Juan;38;3;20/4/2020;Boletin #33;1;33
+23;San Pedro de Macoris;54;7;20/4/2020;Boletin #33;8;33
+24;Sanchez Ramirez;127;5;20/4/2020;Boletin #33;2;33
+25;Santiago;638;38;20/4/2020;Boletin #33;47;33
+26;Santiago Rodriguez;17;1;20/4/2020;Boletin #33;0;33
+27;Valverde;32;1;20/4/2020;Boletin #33;3;33
+28;Monsenor Nouel;153;3;20/4/2020;Boletin #33;11;33
+29;Monte Plata;11;3;20/4/2020;Boletin #33;0;33
+30;Hato Mayor;9;1;20/4/2020;Boletin #33;0;33
+31;San Jose De Ocoa;4;2;20/4/2020;Boletin #33;0;33
+32;Santo Domingo;880;36;20/4/2020;Boletin #33;53;33
+1;Distrito Nacional;1337;34;21/4/2020;Boletin #34;242;34
+2;Azua;24;1;21/4/2020;Boletin #34;1;34
+3;Bahoruco;4;0;21/4/2020;Boletin #34;1;34
+4;Barahona;33;1;21/4/2020;Boletin #34;4;34
+5;Dajabon;2;0;21/4/2020;Boletin #34;0;34
+6;Duarte;519;72;21/4/2020;Boletin #34;64;34
+7;Elias Pina;0;0;21/4/2020;Boletin #34;0;34
+8;El Seibo;4;0;21/4/2020;Boletin #34;0;34
+9;Espaillat;162;5;21/4/2020;Boletin #34;20;34
+10;Independecia;1;0;21/4/2020;Boletin #34;1;34
+11;La Altagracia;100;1;21/4/2020;Boletin #34;18;34
+12;La Romana;95;2;21/4/2020;Boletin #34;6;34
+13;La Vega;387;7;21/4/2020;Boletin #34;30;34
+14;Maria Trinidad Sanchez;74;3;21/4/2020;Boletin #34;5;34
+15;Monte Cristi;15;0;21/4/2020;Boletin #34;1;34
+16;Pedernales;3;0;21/4/2020;Boletin #34;0;34
+17;Peravia;36;1;21/4/2020;Boletin #34;0;34
+18;Puerto Plata;174;11;21/4/2020;Boletin #34;10;34
+19;Hermanas Mirabal;134;11;21/4/2020;Boletin #34;14;34
+20;Samana;21;1;21/4/2020;Boletin #34;8;34
+21;San Cristobal;126;3;21/4/2020;Boletin #34;4;34
+22;San Juan;38;3;21/4/2020;Boletin #34;1;34
+23;San Pedro de Macoris;54;7;21/4/2020;Boletin #34;8;34
+24;Sanchez Ramirez;133;6;21/4/2020;Boletin #34;2;34
+25;Santiago;670;41;21/4/2020;Boletin #34;57;34
+26;Santiago Rodriguez;17;1;21/4/2020;Boletin #34;0;34
+27;Valverde;32;2;21/4/2020;Boletin #34;3;34
+28;Monsenor Nouel;159;3;21/4/2020;Boletin #34;11;34
+29;Monte Plata;11;3;21/4/2020;Boletin #34;0;34
+30;Hato Mayor;9;1;21/4/2020;Boletin #34;0;34
+31;San Jose De Ocoa;4;2;21/4/2020;Boletin #34;0;34
+32;Santo Domingo;922;38;21/4/2020;Boletin #34;70;34
+1;Distrito Nacional;1401;35;22/4/2020;Boletin #35;268;35
+2;Azua;24;1;22/4/2020;Boletin #35;1;35
+3;Bahoruco;4;0;22/4/2020;Boletin #35;1;35
+4;Barahona;33;1;22/4/2020;Boletin #35;4;35
+5;Dajabon;3;0;22/4/2020;Boletin #35;1;35
+6;Duarte;547;73;22/4/2020;Boletin #35;68;35
+7;Elias Pina;0;0;22/4/2020;Boletin #35;0;35
+8;El Seibo;4;0;22/4/2020;Boletin #35;0;35
+9;Espaillat;162;5;22/4/2020;Boletin #35;21;35
+10;Independecia;1;0;22/4/2020;Boletin #35;1;35
+11;La Altagracia;109;1;22/4/2020;Boletin #35;22;35
+12;La Romana;97;2;22/4/2020;Boletin #35;7;35
+13;La Vega;388;7;22/4/2020;Boletin #35;31;35
+14;Maria Trinidad Sanchez;79;3;22/4/2020;Boletin #35;5;35
+15;Monte Cristi;13;0;22/4/2020;Boletin #35;1;35
+16;Pedernales;3;0;22/4/2020;Boletin #35;0;35
+17;Peravia;37;1;22/4/2020;Boletin #35;1;35
+18;Puerto Plata;175;11;22/4/2020;Boletin #35;10;35
+19;Hermanas Mirabal;141;11;22/4/2020;Boletin #35;16;35
+20;Samana;21;1;22/4/2020;Boletin #35;8;35
+21;San Cristobal;132;3;22/4/2020;Boletin #35;6;35
+22;San Juan;39;3;22/4/2020;Boletin #35;1;35
+23;San Pedro de Macoris;54;7;22/4/2020;Boletin #35;8;35
+24;Sanchez Ramirez;134;6;22/4/2020;Boletin #35;3;35
+25;Santiago;694;43;22/4/2020;Boletin #35;75;35
+26;Santiago Rodriguez;17;1;22/4/2020;Boletin #35;0;35
+27;Valverde;32;2;22/4/2020;Boletin #35;3;35
+28;Monsenor Nouel;160;3;22/4/2020;Boletin #35;12;35
+29;Monte Plata;11;3;22/4/2020;Boletin #35;0;35
+30;Hato Mayor;11;2;22/4/2020;Boletin #35;0;35
+31;San Jose De Ocoa;4;2;22/4/2020;Boletin #35;0;35
+32;Santo Domingo;1013;38;22/4/2020;Boletin #35;100;35
+1;Distrito Nacional;1457;35;23/4/2020;Boletin #36;305;36
+2;Azua;25;1;23/4/2020;Boletin #36;1;36
+3;Bahoruco;4;0;23/4/2020;Boletin #36;1;36
+4;Barahona;35;1;23/4/2020;Boletin #36;5;36
+5;Dajabon;3;0;23/4/2020;Boletin #36;1;36
+6;Duarte;557;74;23/4/2020;Boletin #36;72;36
+7;Elias Pina;1;0;23/4/2020;Boletin #36;0;36
+8;El Seibo;4;0;23/4/2020;Boletin #36;0;36
+9;Espaillat;162;5;23/4/2020;Boletin #36;22;36
+10;Independecia;1;0;23/4/2020;Boletin #36;1;36
+11;La Altagracia;109;1;23/4/2020;Boletin #36;23;36
+12;La Romana;97;2;23/4/2020;Boletin #36;8;36
+13;La Vega;414;7;23/4/2020;Boletin #36;36;36
+14;Maria Trinidad Sanchez;79;3;23/4/2020;Boletin #36;5;36
+15;Monte Cristi;13;0;23/4/2020;Boletin #36;2;36
+16;Pedernales;3;0;23/4/2020;Boletin #36;0;36
+17;Peravia;37;1;23/4/2020;Boletin #36;2;36
+18;Puerto Plata;185;11;23/4/2020;Boletin #36;12;36
+19;Hermanas Mirabal;145;11;23/4/2020;Boletin #36;17;36
+20;Samana;21;1;23/4/2020;Boletin #36;8;36
+21;San Cristobal;138;4;23/4/2020;Boletin #36;6;36
+22;San Juan;43;3;23/4/2020;Boletin #36;1;36
+23;San Pedro de Macoris;56;7;23/4/2020;Boletin #36;8;36
+24;Sanchez Ramirez;138;6;23/4/2020;Boletin #36;3;36
+25;Santiago;719;43;23/4/2020;Boletin #36;84;36
+26;Santiago Rodriguez;24;1;23/4/2020;Boletin #36;0;36
+27;Valverde;32;2;23/4/2020;Boletin #36;3;36
+28;Monsenor Nouel;162;3;23/4/2020;Boletin #36;12;36
+29;Monte Plata;13;3;23/4/2020;Boletin #36;0;36
+30;Hato Mayor;11;2;23/4/2020;Boletin #36;0;36
+31;San Jose De Ocoa;4;2;23/4/2020;Boletin #36;0;36
+32;Santo Domingo;1057;38;23/4/2020;Boletin #36;125;36
+1;Distrito Nacional;1491;37;24/4/2020;Boletin #37;328;37
+2;Azua;30;1;24/4/2020;Boletin #37;1;37
+3;Bahoruco;4;0;24/4/2020;Boletin #37;1;37
+4;Barahona;35;1;24/4/2020;Boletin #37;5;37
+5;Dajabon;3;0;24/4/2020;Boletin #37;1;37
+6;Duarte;562;75;24/4/2020;Boletin #37;76;37
+7;Elias Pina;1;0;24/4/2020;Boletin #37;0;37
+8;El Seibo;4;0;24/4/2020;Boletin #37;0;37
+9;Espaillat;186;5;24/4/2020;Boletin #37;22;37
+10;Independecia;1;0;24/4/2020;Boletin #37;1;37
+11;La Altagracia;109;1;24/4/2020;Boletin #37;25;37
+12;La Romana;105;2;24/4/2020;Boletin #37;9;37
+13;La Vega;422;7;24/4/2020;Boletin #37;38;37
+14;Maria Trinidad Sanchez;82;3;24/4/2020;Boletin #37;5;37
+15;Monte Cristi;13;0;24/4/2020;Boletin #37;2;37
+16;Pedernales;3;0;24/4/2020;Boletin #37;0;37
+17;Peravia;39;1;24/4/2020;Boletin #37;4;37
+18;Puerto Plata;192;11;24/4/2020;Boletin #37;13;37
+19;Hermanas Mirabal;150;11;24/4/2020;Boletin #37;17;37
+20;Samana;21;1;24/4/2020;Boletin #37;8;37
+21;San Cristobal;147;5;24/4/2020;Boletin #37;6;37
+22;San Juan;44;3;24/4/2020;Boletin #37;1;37
+23;San Pedro de Macoris;57;7;24/4/2020;Boletin #37;9;37
+24;Sanchez Ramirez;139;6;24/4/2020;Boletin #37;3;37
+25;Santiago;754;44;24/4/2020;Boletin #37;90;37
+26;Santiago Rodriguez;24;1;24/4/2020;Boletin #37;0;37
+27;Valverde;32;2;24/4/2020;Boletin #37;3;37
+28;Monsenor Nouel;164;3;24/4/2020;Boletin #37;14;37
+29;Monte Plata;13;3;24/4/2020;Boletin #37;0;37
+30;Hato Mayor;12;2;24/4/2020;Boletin #37;0;37
+31;San Jose De Ocoa;4;2;24/4/2020;Boletin #37;0;37
+32;Santo Domingo;1083;39;24/4/2020;Boletin #37;140;37
+1;Distrito Nacional;1545;37;25/4/2020;Boletin #38;357;38
+2;Azua;31;1;25/4/2020;Boletin #38;1;38
+3;Bahoruco;4;0;25/4/2020;Boletin #38;1;38
+4;Barahona;35;1;25/4/2020;Boletin #38;6;38
+5;Dajabon;3;0;25/4/2020;Boletin #38;1;38
+6;Duarte;587;76;25/4/2020;Boletin #38;83;38
+7;Elias Pina;1;0;25/4/2020;Boletin #38;0;38
+8;El Seibo;5;0;25/4/2020;Boletin #38;0;38
+9;Espaillat;186;5;25/4/2020;Boletin #38;22;38
+10;Independecia;1;0;25/4/2020;Boletin #38;1;38
+11;La Altagracia;110;1;25/4/2020;Boletin #38;30;38
+12;La Romana;107;2;25/4/2020;Boletin #38;10;38
+13;La Vega;427;7;25/4/2020;Boletin #38;46;38
+14;Maria Trinidad Sanchez;82;3;25/4/2020;Boletin #38;5;38
+15;Monte Cristi;13;0;25/4/2020;Boletin #38;2;38
+16;Pedernales;3;0;25/4/2020;Boletin #38;0;38
+17;Peravia;40;1;25/4/2020;Boletin #38;6;38
+18;Puerto Plata;193;13;25/4/2020;Boletin #38;13;38
+19;Hermanas Mirabal;152;11;25/4/2020;Boletin #38;18;38
+20;Samana;21;1;25/4/2020;Boletin #38;8;38
+21;San Cristobal;156;6;25/4/2020;Boletin #38;8;38
+22;San Juan;44;3;25/4/2020;Boletin #38;2;38
+23;San Pedro de Macoris;58;7;25/4/2020;Boletin #38;11;38
+24;Sanchez Ramirez;164;6;25/4/2020;Boletin #38;6;38
+25;Santiago;765;44;25/4/2020;Boletin #38;92;38
+26;Santiago Rodriguez;25;1;25/4/2020;Boletin #38;0;38
+27;Valverde;37;2;25/4/2020;Boletin #38;5;38
+28;Monsenor Nouel;173;3;25/4/2020;Boletin #38;18;38
+29;Monte Plata;15;3;25/4/2020;Boletin #38;0;38
+30;Hato Mayor;12;2;25/4/2020;Boletin #38;0;38
+31;San Jose De Ocoa;5;2;25/4/2020;Boletin #38;0;38
+32;Santo Domingo;1135;40;25/4/2020;Boletin #38;158;38
+1;Distrito Nacional;1571;37;26/4/2020;Boletin #39;388;39
+2;Azua;34;1;26/4/2020;Boletin #39;2;39
+3;Bahoruco;5;0;26/4/2020;Boletin #39;1;39
+4;Barahona;35;1;26/4/2020;Boletin #39;7;39
+5;Dajabon;3;0;26/4/2020;Boletin #39;1;39
+6;Duarte;594;76;26/4/2020;Boletin #39;89;39
+7;Elias Pina;2;0;26/4/2020;Boletin #39;0;39
+8;El Seibo;5;0;26/4/2020;Boletin #39;0;39
+9;Espaillat;187;5;26/4/2020;Boletin #39;23;39
+10;Independecia;1;0;26/4/2020;Boletin #39;1;39
+11;La Altagracia;114;1;26/4/2020;Boletin #39;33;39
+12;La Romana;111;2;26/4/2020;Boletin #39;13;39
+13;La Vega;435;7;26/4/2020;Boletin #39;51;39
+14;Maria Trinidad Sanchez;86;3;26/4/2020;Boletin #39;6;39
+15;Monte Cristi;17;0;26/4/2020;Boletin #39;2;39
+16;Pedernales;3;0;26/4/2020;Boletin #39;0;39
+17;Peravia;43;1;26/4/2020;Boletin #39;7;39
+18;Puerto Plata;198;13;26/4/2020;Boletin #39;15;39
+19;Hermanas Mirabal;154;11;26/4/2020;Boletin #39;18;39
+20;Samana;22;1;26/4/2020;Boletin #39;9;39
+21;San Cristobal;165;7;26/4/2020;Boletin #39;15;39
+22;San Juan;53;3;26/4/2020;Boletin #39;2;39
+23;San Pedro de Macoris;62;8;26/4/2020;Boletin #39;13;39
+24;Sanchez Ramirez;166;6;26/4/2020;Boletin #39;8;39
+25;Santiago;785;45;26/4/2020;Boletin #39;97;39
+26;Santiago Rodriguez;25;1;26/4/2020;Boletin #39;0;39
+27;Valverde;37;2;26/4/2020;Boletin #39;5;39
+28;Monsenor Nouel;175;3;26/4/2020;Boletin #39;18;39
+29;Monte Plata;15;3;26/4/2020;Boletin #39;0;39
+30;Hato Mayor;12;2;26/4/2020;Boletin #39;0;39
+31;San Jose De Ocoa;5;2;26/4/2020;Boletin #39;0;39
+32;Santo Domingo;1173;41;26/4/2020;Boletin #39;169;39
+1;Distrito Nacional;1605;38;27/4/2020;Boletin #40;453;40
+2;Azua;34;1;27/4/2020;Boletin #40;4;40
+3;Bahoruco;5;0;27/4/2020;Boletin #40;1;40
+4;Barahona;36;1;27/4/2020;Boletin #40;7;40
+5;Dajabon;3;0;27/4/2020;Boletin #40;1;40
+6;Duarte;597;76;27/4/2020;Boletin #40;99;40
+7;Elias Pina;2;0;27/4/2020;Boletin #40;0;40
+8;El Seibo;5;0;27/4/2020;Boletin #40;0;40
+9;Espaillat;187;5;27/4/2020;Boletin #40;28;40
+10;Independecia;1;0;27/4/2020;Boletin #40;1;40
+11;La Altagracia;114;1;27/4/2020;Boletin #40;41;40
+12;La Romana;121;2;27/4/2020;Boletin #40;19;40
+13;La Vega;473;7;27/4/2020;Boletin #40;61;40
+14;Maria Trinidad Sanchez;86;3;27/4/2020;Boletin #40;6;40
+15;Monte Cristi;17;0;27/4/2020;Boletin #40;2;40
+16;Pedernales;3;0;27/4/2020;Boletin #40;0;40
+17;Peravia;47;1;27/4/2020;Boletin #40;7;40
+18;Puerto Plata;198;13;27/4/2020;Boletin #40;17;40
+19;Hermanas Mirabal;154;11;27/4/2020;Boletin #40;19;40
+20;Samana;22;1;27/4/2020;Boletin #40;9;40
+21;San Cristobal;167;7;27/4/2020;Boletin #40;16;40
+22;San Juan;53;3;27/4/2020;Boletin #40;3;40
+23;San Pedro de Macoris;62;8;27/4/2020;Boletin #40;15;40
+24;Sanchez Ramirez;166;6;27/4/2020;Boletin #40;10;40
+25;Santiago;789;47;27/4/2020;Boletin #40;123;40
+26;Santiago Rodriguez;25;1;27/4/2020;Boletin #40;0;40
+27;Valverde;37;2;27/4/2020;Boletin #40;5;40
+28;Monsenor Nouel;176;4;27/4/2020;Boletin #40;18;40
+29;Monte Plata;15;3;27/4/2020;Boletin #40;0;40
+30;Hato Mayor;12;2;27/4/2020;Boletin #40;2;40
+31;San Jose De Ocoa;6;2;27/4/2020;Boletin #40;0;40
+32;Santo Domingo;1198;41;27/4/2020;Boletin #40;198;40
